@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-IN">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Automated Question Help</title>
-        <link rel="stylesheet" href="styles.css">
-    </head>
-    <body>
-        <textarea id="question" readonly>Hello World!</textarea><br>
-        <button id="day">Day</button>
-        <button id="copy">Copy 1</button>
-        <script src="script.js"></script>
-    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automated Question Help</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <textarea id="question" readonly>Hello World!</textarea>
+        <div class="controls">
+            <input type="number" id="day" min="0" value="0">
+            <button id="copy">Copy 1</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
 </html>
