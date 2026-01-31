@@ -81,7 +81,7 @@ let questions=["firebase",
   "What is the name of Japan Parliament?",
   "Which is the Highest Award given for Lifetime Achievement in Sports and games in India?",
   "Name the central minister who launched GST Rates Finder App.",
-  "Name the Indian King Who was Known as “Napoleon of India".",
+  "Name the Indian King Who was Known as Napoleon of India.",
   "Which country is known as “the Land of Morning Calm”?",
   "Which is the National aquatic Animal of India?",
   "Which is the World’s Busiest Airport?",
@@ -1208,4 +1208,5 @@ document.getElementById('copy').addEventListener('click', function()
                                                      document.getElementById('question').value=questions[pos];
                                                      document.getElementById('copy').textContent="Copy " + (pos+1);
                                                  });
+
 
