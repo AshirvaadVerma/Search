@@ -28,309 +28,308 @@ let questions=["firebase",
   "What is Limnology?",
   "Which City in India is known as the “City of Joy”?",
   "Who was the first Asian winner of the Nobel Prize",
-               "When was Tooth brush invented?
-  Which pair of Cities in India is known as the “Twin Cities“?
-  Which City in India is known as the “City of Golden Gate”?
-  What is Palaeontology?
-  Who is known as “A Lady with the Lamp”?
-  Thomas cup is associated with which sport?
-  What is India’s rank in 2017 Global Cyber security Index?
-  Which is the Busiest Bridge in India?
-  Which City is known as the “City of Seven Hills”?
-  Who was the first woman chief minister of India?
-  Which Country is the leading producer of Diamond?
-  Which Vitamin is responsible for the Clotting of Blood?
-  Who invented Dynamite?
-  Where is the headquarters of United Nations Organisation (UNO) located?
-  Who invented Richter scale?
-  Who is known as “Indian Bismarck”?
-  What is the Expansion of DRDL",
-               "What is Eugenics?
-  Which Country gifted “the statue of Liberty” to The America?
-  Which City is known as the “Queen of Arabian Sea”?
-  Which is the Biggest Library in the world?
-  Who was the first woman recipient of Magsaysay award?
-  Which country is known as “the Land of Thousand lakes”?
-  Which Country is the leading producer of Tea?
-  Who was the first woman IAS Officer of India?
-  Who wrote the book, “The God of Small Things”?
-  Expand IGNOU.
-  Who was the first Woman President of Un General Assembly?
-  Which City in India is known as the “City of Dreams”?
-  Which is the Largest Temple in the world?
-  Expand OMR.
-  Which instrument is used to measure the Blood Pressure?
-  Who wrote the book, “Paradise lost”",
-               "What is Eugenics?
-  Which Country gifted “the statue of Liberty” to The America?
-  Which City is known as the “Queen of Arabian Sea”?
-  Which is the Biggest Library in the world?
-  Who was the first woman recipient of Magsaysay award?
-  Which country is known as “the Land of Thousand lakes”?
-  Which Country is the leading producer of Tea?
-  Who was the first woman IAS Officer of India?
-  Who wrote the book, “The God of Small Things”?
-  Expand IGNOU.
-  Who was the first Woman President of Un General Assembly?
-  Which City in India is known as the “City of Dreams”?
-  Which is the Largest Temple in the world?
-  Expand OMR.
-  Which instrument is used to measure the Blood Pressure?
-  Who wrote the book, “Paradise lost”",
-               "Which was the first Country to conduct Civil Services Competitions?
-  Which is the Tallest Tower in the world?
-  What is the name of Japan Parliament?
-  Which is the Highest Award given for Lifetime Achievement in Sports and games in India?
-  Name the central minister who launched GST Rates Finder App.
-  Name the Indian King Who was Known as “Napoleon of India”.
-  Which country is known as “the Land of Morning Calm”?
-  Which is the National aquatic Animal of India?
-  Which is the World’s Busiest Airport?
-  Where is the Ghana Bird Sanctuary located?
-  Who coined the term “Green Revolution”?
-  Which is the first Country to make a Constitution?
-  What is the ratio of width of our National flag to its Length?
-  Where is the headquarters of Sahitya Academy Located?
-  Which is the Longest River in India?
-  ‘Madhubani’, a Style of folk Paintings, is popular in which state of India?",
-               "How Many Countries share their Borderline with India?
-  Rabindranath Tagore’s “Jana Gana Mana” was adopted as India’s
-National Anthem. How many stanzas of the song were adopted?
-  Who composed the National song of India “Vande Matram”?
-  Who is the present Chief election Commissioner of India?
-  Who Founded Nalanda University?
-  What is Biogeography?
-  Which is the Junction Point of Eastern and Western Ghats?
-  Which City is known as the “Forbidden City”?
-  Who was the first woman to receive Bharat Ratna?
-  Which is the Longest Dam in India?
-  Who is known as “the Man of Destiny”?
-  When is the World Tourism Day Observed?
-  Which City is known as the “Chocolate City”?
-  Who wrote the book, “The Road Ahead”?
-  Who is the present Central Minister of Women Welfare and Child Development?
-  What is Exobiology?",
-               "Expand GPRS.
-  Who is the present Central Minister of Youth Affairs and Sports?
-  Who wrote the Tamil Novel, “Sila Nerangalil Sila Manidhargal”?
-  What is the expansion of WMO?
-  Which country is known as “the Land of Maple”?
-  When is the International Youth’s Day Celebrated?
-  Which is the name of the Award given for Excellence in Space Research in India?
-  Who was the first Indian to receive Nobel Prize in Economics?
-  Where is the Kaziranga Park Located?
-  Which is the Highest Gallantry Award in India?
-  When is National Statistics Day Celebrated?
-  What is the expansion of USB?
-  Who was the first Indian to become the member of the British Parliament?
-  What is the Total Duration of Foot ball Match?
-  Who wrote the book, “Discovery of India”?
-  In Which Year, was the Pulitzer Prize Introduced?",
-               "Where is India’s first Floating Post Office Established?
-  Who is the present Chief Minister of Telangana?
-  Who was the first Indian woman to climb Mount Everest?
-  Which is the Longest Railway Platform in the world?
-  Which City is known as the “Windy City”?
-  What is the expansion of ICRC?
-  Who wrote the book, “Dreams from My Father: A Story of Race and Inheritance”?
-  Who is the present Central Minister of External Affairs?
-  When is the World Literacy Day Celebrated?
-  ‘A Forgotten Empire’ written by the Historian Sewell refers to Which Empire.
-  Which is the Highest Peak in India?
-  What is the expansion of BARC?
-  When is the National Sports Day Celebrated?
-  Which is the National Sport of China?
-  What is the name of playing area of Baseball?
-  Which City is known as the “Garden City”?",
-               "Where is the Vijaya Vittala Temple, Having its 56 carved pillars emitting Musical Notes Located?
-  Who wrote the book, “My Journey”?
-  What is the expansion of IDA?
-  Who is known as “the Lion of Punjab”?
-  Which was the first Country to host the Modern Olympic Games?
-  Who was the first Mauryan Ruler to conquer Deccan?
-  Which is the Capital of Mizoram?
-  What is the Chemical name of Vitamin D?
-  Where is the National Institute of Agricultural Marketing Located?
-  Who won the Women’s singles title in the World Badminton Championship 2017?
-  Which is the largest Delta in the world?
-  Who was the founder of Gupta Dynasty?
-  Who is the only President of India elected as an Independent Candidate?
-  Which City is known as the “Steel City of India”?
-  Which is the National Heritage Animal of India?
-  What is the motto of Olympic Games?",
-               "Who wrote the Poem, “The Bird of Time”?
-  When is the International Nelson Mandela Day Observed?
-  Which country will host the 2018 International Theatre Olympics?
-  Which is the Highest Lake above the sea level in the world?
-  With Which Sport, is “Popping Crease” Associated?
-  Who wrote the book, “Man- the Maker of His own Destiny”?
-  Which International Tennis Event is held on the Grass Court?
-  Which Company developed the India’s first Bio-Methane Bus?
-  What is the name of Chennai to Vishakhapatnam National Highway?
-  Which Planet of the Solar System spins on its axis at the Fastest Rate?
-  Who is known as “the Grand Old man of India”?
-  At Which temperature, Both the Fahrenheit and the Centigrade Scales have the same values?
-  Which Union Territory of India attained Statehood in February 1987?
-  Name the Substance found in blood, which helps in Clotting.
-  Which is considered as a hot spot of Biodiversity in India?",
-  Which country has the Briefest Constitution in the World?
-  Name the pair of countries, which the Karakoram Highway connects.
-  Where is the headquarters of UNESCO located?
-  Which is the Biggest Lake in India?
-  Which Vitamin plays a vital role in Coagulation Property of Blood?
-  Mahatma Gandhi gave the call ‘Do or Die’ During Which Movement?
-  To Which Field is the Award Saraswathi Samman given annually for Outstanding Contribution?
-  Which is the Largest Gulf in the world?
-  What is the name of study of Growth and Development of Embryo?
-  Port Blair- the Capital of Andaman & Nicobar Islands, is located in which Island?
-  How much Earth’s Surface is covered by the Forests?
-  In Which Year, Delhi became the capital of India.
-  On planet Earth, Where is no Centripetal Force?
-  Which state has the Largest Coastline in India?
-  Which is the Deepest Landlocked Protected Port?
-  Which is the first National Park established in India?
-  In which Indian State, The World famous “Khajuraho” Sculptures are found?
-  Who was the first Chairman of Indian Atomic Energy Commission?
-  Who had the Policy of “One People, One State, and One Leader”?
-  What is the Chemical name of Chloroform?
-  Where is the headquarters of Coffee Board of India Located?
-  When is the International Day of Democracy Observed?
-  Which is the first Country to give Voting Right to Women?
-  What is the name of Currency of Belgium?
-  Who was the first Indian woman to receive Jnanapith Award?
-  Which is the Longest River of Southern India?
-  Which is the Capital of Himachal Pradesh?
-  Where is the Integral Coach Factory in India Located?
-  When is the International Biodiversity Day Observed?
-  Which is the leading Bus Terminus in Asia?
-  What is the expansion of BHEL?
-  Who wrote the book, “Glimpses of World History”?
-  Who won the Women’s singles title in 2017 American Open Tennis Championship?
-  Which is the Largest Cave in India?
-  Where is the Central Marine Research Institute Located?
-  What is the name of Currency of Zimbabwe?
-  Which is the Capital of USA?
-  What is the expansion of NASA?
-  Where is the Army Cadet College in India Located?
-  When is the National Physics Day Celebrated?
-  Which is the first Country to send Human to Moon?
-  Who wrote the book, “Man of Destiny”?
-  Who is the Brand Ambassador of Jharkhand tourism?
-  Who is the present Central Defence Minister?
-  When is the World Maths Day Celebrated?
-  What is the expansion of IGCAR?
-  Who is the present Central Railway Minister?
-  Who won the women’s singles title in Korea Open Super Series Badminton Championship 2017?
-  Which is the Capital of Tripura?
-  Who wrote the book, “Origin of Species”?
-  Which is the Highest Award given for Science in India?
-  Who started Public Works Department in India?
-  Which is the State Bird of Tamil Nadu?
-  Which is the Capital of the Union Territory Daman & Diu?
-  Where is the Sundarban Tiger Reserve Situated?
-  Which is the Longest National Highway in India?
-  What is the expansion of ICMR?
-  Where is the Central Food Technology Research Institute Located?
-  Who completed the construction of Qutub Minar?
-  Which state Government of India institutes Mahatma Gandhi Award?
-  Where is the Green park Stadium Located?
-  What is the name of playing area of Lawn Tennis?
-  When is the World Postal Day Observed?
-               "Where is the National Institute of Ayurveda located?
-Which is the highest airport in India?
-Which city is the biggest centre for manufacture of automobiles in the world?
-Who wrote the book “Business @ The Speed of Thoughts”?
-Who is known as “the Iron Lady”?
-Where is the Centre for Environmental Education located?
-Where was the first Technology Park in India established?
-What is the name of the Parliament in the USA?
-Which city is known as the “City of Cycles”?
-Which city is known as the “Empire City”?
-Who is the Brand Ambassador of Incredible India?
-Who was the first Indian-born recipient to receive the Nobel Prize for Peace?
-Who is the present Central Minister of Drinking Water and Sanitation?
-Where is the Himalayan Forest Research Institute located?
-What is Entomology?
-Who wrote the book “As You Like It”?
-Who wrote the book “Gathering Storm”?
-Which is the longest highway in the world?
-Who was the first Governor General of Pakistan?
-Where is the Centre for Liquid Crystal Research located?
-Which country is known as “the Country of Copper”?
-Who is the Brand Ambassador of Skill India Mission?
-What is the name of the Parliament of Indonesia?
-Which city is known as the “City of Gold”?
-Which is the largest producer of rubber in the world?
-Where is the Institute of Forest Genetics & Tree Breeding located?
-Who is the first Viceroy of India?
-What was the earlier name of New York City?
-Who is the Brand Ambassador of the Central Reserve Police Force?
-Who is the present Central Minister of Human Resource Development?
-Who is the newly appointed Governor of Andaman & Nicobar Islands?
-Which Indian city is known as “the Diamond City”?",
-               "Who is the Brand Ambassador of Kerala’s Ayurveda?
-Which country is the largest producer of manganese in the world?
-Who is the first Governor General of India?
-Where is the Indian Institute of Foreign Trade located?
-Who wrote the book “War and Peace”?
-Where is S. N. Bose National Centre for Basic Sciences located?
-Who wrote the book “Oliver Twist”?
-What is the lifespan of RBC?
-What is the old name of Taiwan?
-What is the expansion of UNIDO?
-Who was the first President of the USA?
-Who said, “Man is a tool-making animal”?
-Who was the last British Viceroy of India?
-What is the chemical name of ruby?
-Where is the Central Institute of Indian Languages located?
-Who wrote the book “Wake Up India”?
-What is the expansion of STARS?
-Who is the world’s first woman cosmonaut?
-Which city is known as the “City of Cakes”?
-Which city is known as the “Motor City”?
-Where is the Centre for Wind Energy Technology located?
-Who wrote the book “The Godfather”?
-Who is the Brand Ambassador of Yoga and Ayurveda in Haryana?
-Who is the present Central Minister of Science and Technology?
-What is the chemical name of Vitamin C?
-When was the first crossword puzzle published?
-Name the country whose national anthem has only music but no words.
-Who invented the crossword puzzle?
-What is ailurophobia?
-Where is the Patagonian Desert located?
-Which is the first animated colour cartoon of full feature length?
-Which is the oldest residential university in Britain?
-Which city is selected under UNESCO’s Creative Cities Network for contribution in music?",
-               "What is the name of the large clock on the tower of the House of Parliament in London?
-Who was the founder of the kindergarten education system?
-Which is the first university established in the world?
-What is the expansion of CFO?
-What was the rank of India in the Valuable Nation Brand List 2017?
-When is World Standards Day observed?
-When was the first election of the Lok Sabha held?
-Which was the first country to issue stamps?
-Who introduced the practice of sterilisation of surgical instruments?
-When is the International Day for the Preservation of the Ozone Layer observed?
-Where is the famous painting “Mona Lisa” displayed?
-Name the river which carries the maximum quantity of water into the sea.
-Which country is known as “the Battlefield of Europe”?
-What is acrophobia?
-Which country stands first in the generation of geothermal energy?
-Where is the National Centre of Organic Farming located?
-Who wrote the book “Memories of the II World War”?
-What was the rank of India in the 2017 Global Business Optimism Ranking?
-When is the International Day for the Eradication of Poverty observed?
-The Department of Official Languages comes under which ministry?
-Where is the Great Victoria Desert located?
-Who coined the term “quiz”?
-How many countries participated in the first Olympic Games held at Athens?
-When is World Soil Day observed?
-Which is India’s first energy-efficient railway station?
-Where was the first demonstration of a motion picture held?
-Who is the new Chairman of the Petroleum and Natural Gas Regulatory Board (PNGRB)?
-How many keys are there in an ordinary piano?
-Who wrote the book “Seven Lamps of Architecture”?
-Who was the first Education Minister of independent India?",
+               "When was Tooth brush invented?",
+  "Which pair of Cities in India is known as the “Twin Cities“?",
+  "Which City in India is known as the “City of Golden Gate”?",
+  "What is Palaeontology?",
+  "Who is known as “A Lady with the Lamp”?",
+  "Thomas cup is associated with which sport?",
+  "What is India’s rank in 2017 Global Cyber security Index?",
+  "Which is the Busiest Bridge in India?",
+  "Which City is known as the “City of Seven Hills”?",
+  "Who was the first woman chief minister of India?",
+  "Which Country is the leading producer of Diamond?",
+  "Which Vitamin is responsible for the Clotting of Blood?",
+  "Who invented Dynamite?",
+  "Where is the headquarters of United Nations Organisation (UNO) located?",
+  "Who invented Richter scale?",
+  "Who is known as “Indian Bismarck”?",
+  "What is the Expansion of DRDL",
+               "What is Eugenics?",
+  "Which Country gifted “the statue of Liberty” to The America?",
+  "Which City is known as the “Queen of Arabian Sea”?",
+  "Which is the Biggest Library in the world?",
+  "Who was the first woman recipient of Magsaysay award?",
+  "Which country is known as “the Land of Thousand lakes”?",
+  "Which Country is the leading producer of Tea?",
+  "Who was the first woman IAS Officer of India?",
+  "Who wrote the book, “The God of Small Things”?",
+  "Expand IGNOU.",
+  "Who was the first Woman President of Un General Assembly?",
+  "Which City in India is known as the “City of Dreams”?",
+  "Which is the Largest Temple in the world?",
+  "Expand OMR.",
+  "Which instrument is used to measure the Blood Pressure?",
+  "Who wrote the book, “Paradise lost”",
+               "What is Eugenics?",
+  "Which Country gifted “the statue of Liberty” to The America?",
+  "Which City is known as the “Queen of Arabian Sea”?",
+  "Which is the Biggest Library in the world?",
+  "Who was the first woman recipient of Magsaysay award?",
+  "Which country is known as “the Land of Thousand lakes”?",
+  "Which Country is the leading producer of Tea?",
+  "Who was the first woman IAS Officer of India?",
+  "Who wrote the book, “The God of Small Things”?",
+  "Expand IGNOU.",
+  "Who was the first Woman President of Un General Assembly?",
+  "Which City in India is known as the “City of Dreams”?",
+  "Which is the Largest Temple in the world?",
+  "Expand OMR.",
+  "Which instrument is used to measure the Blood Pressure?",
+  "Who wrote the book, “Paradise lost”",
+               "Which was the first Country to conduct Civil Services Competitions?",
+  "Which is the Tallest Tower in the world?",
+  "What is the name of Japan Parliament?",
+  "Which is the Highest Award given for Lifetime Achievement in Sports and games in India?",
+  "Name the central minister who launched GST Rates Finder App.",
+  "Name the Indian King Who was Known as “Napoleon of India".",
+  "Which country is known as “the Land of Morning Calm”?",
+  "Which is the National aquatic Animal of India?",
+  "Which is the World’s Busiest Airport?",
+  "Where is the Ghana Bird Sanctuary located?",
+  "Who coined the term “Green Revolution”?",
+  "Which is the first Country to make a Constitution?",
+  "What is the ratio of width of our National flag to its Length?",
+  "Where is the headquarters of Sahitya Academy Located?",
+  "Which is the Longest River in India?",
+  "‘Madhubani’, a Style of folk Paintings, is popular in which state of India?",
+               "How Many Countries share their Borderline with India?",
+  "How many stanzas of the song were adopted?",
+  "Who composed the National song of India “Vande Matram”?",
+  "Who is the present Chief election Commissioner of India?",
+  "Who Founded Nalanda University?",
+  "What is Biogeography?",
+  "Which is the Junction Point of Eastern and Western Ghats?",
+  "Which City is known as the “Forbidden City”?",
+  "Who was the first woman to receive Bharat Ratna?",
+  "Which is the Longest Dam in India?",
+  "Who is known as “the Man of Destiny”?",
+  "When is the World Tourism Day Observed?",
+  "Which City is known as the “Chocolate City”?",
+  "Who wrote the book, “The Road Ahead”?",
+  "Who is the present Central Minister of Women Welfare and Child Development?",
+  "What is Exobiology?",
+               "Expand GPRS.",
+  "Who is the present Central Minister of Youth Affairs and Sports?",
+  "Who wrote the Tamil Novel, “Sila Nerangalil Sila Manidhargal”?",
+  "What is the expansion of WMO?",
+  "Which country is known as “the Land of Maple”?",
+  "When is the International Youth’s Day Celebrated?",
+  "Which is the name of the Award given for Excellence in Space Research in India?",
+  "Who was the first Indian to receive Nobel Prize in Economics?",
+  "Where is the Kaziranga Park Located?",
+  "Which is the Highest Gallantry Award in India?",
+  "When is National Statistics Day Celebrated?",
+  "What is the expansion of USB?",
+  "Who was the first Indian to become the member of the British Parliament?",
+  "What is the Total Duration of Foot ball Match?",
+  "Who wrote the book, “Discovery of India”?",
+  "In Which Year, was the Pulitzer Prize Introduced?",
+               "Where is India’s first Floating Post Office Established?",
+  "Who is the present Chief Minister of Telangana?",
+  "Who was the first Indian woman to climb Mount Everest?",
+  "Which is the Longest Railway Platform in the world?",
+  "Which City is known as the “Windy City”?",
+  "What is the expansion of ICRC?",
+  "Who wrote the book, “Dreams from My Father: A Story of Race and Inheritance”?",
+  "Who is the present Central Minister of External Affairs?",
+  "When is the World Literacy Day Celebrated?",
+  "‘A Forgotten Empire’ written by the Historian Sewell refers to Which Empire.",
+  vWhich is the Highest Peak in India?",
+  "What is the expansion of BARC?",
+  "When is the National Sports Day Celebrated?",
+  "Which is the National Sport of China?",
+  "What is the name of playing area of Baseball?",
+  "Which City is known as the “Garden City”?",
+               "Where is the Vijaya Vittala Temple, Having its 56 carved pillars emitting Musical Notes Located?",
+  "Who wrote the book, “My Journey”?",
+  "What is the expansion of IDA?",
+  "Who is known as “the Lion of Punjab”?",
+  "Which was the first Country to host the Modern Olympic Games?",
+  "Who was the first Mauryan Ruler to conquer Deccan?",
+  "Which is the Capital of Mizoram?",
+  "What is the Chemical name of Vitamin D?",
+  "Where is the National Institute of Agricultural Marketing Located?",
+  "Who won the Women’s singles title in the World Badminton Championship 2017?",
+  "Which is the largest Delta in the world?",
+  "Who was the founder of Gupta Dynasty?",
+  "Who is the only President of India elected as an Independent Candidate?",
+  "Which City is known as the “Steel City of India”?",
+  "Which is the National Heritage Animal of India?",
+  "What is the motto of Olympic Games?",
+               "Who wrote the Poem, “The Bird of Time”?",
+  "When is the International Nelson Mandela Day Observed?",
+  "Which country will host the 2018 International Theatre Olympics?",
+  "Which is the Highest Lake above the sea level in the world?",
+  "With Which Sport, is “Popping Crease” Associated?",
+  "Who wrote the book, “Man- the Maker of His own Destiny”?",
+  "Which International Tennis Event is held on the Grass Court?",
+  "Which Company developed the India’s first Bio-Methane Bus?",
+  "What is the name of Chennai to Vishakhapatnam National Highway?",
+  "Which Planet of the Solar System spins on its axis at the Fastest Rate?",
+  "Who is known as “the Grand Old man of India”?",
+  "At Which temperature, Both the Fahrenheit and the Centigrade Scales have the same values?",
+  "Which Union Territory of India attained Statehood in February 1987?",
+  "Name the Substance found in blood, which helps in Clotting.",
+  "Which is considered as a hot spot of Biodiversity in India?",
+  "Which country has the Briefest Constitution in the World?",
+  "Name the pair of countries, which the Karakoram Highway connects.",
+  "Where is the headquarters of UNESCO located?",
+  "Which is the Biggest Lake in India?",
+  "Which Vitamin plays a vital role in Coagulation Property of Blood?",
+  "Mahatma Gandhi gave the call ‘Do or Die’ During Which Movement?",
+  "To Which Field is the Award Saraswathi Samman given annually for Outstanding Contribution?",
+  "Which is the Largest Gulf in the world?",
+  "What is the name of study of Growth and Development of Embryo?",
+  "Port Blair- the Capital of Andaman & Nicobar Islands, is located in which Island?",
+  "How much Earth’s Surface is covered by the Forests?",
+  "In Which Year, Delhi became the capital of India.",
+  "On planet Earth, Where is no Centripetal Force?",
+  "Which state has the Largest Coastline in India?",
+  "Which is the Deepest Landlocked Protected Port?",
+  "Which is the first National Park established in India?",
+  "In which Indian State, The World famous “Khajuraho” Sculptures are found?",
+  "Who was the first Chairman of Indian Atomic Energy Commission?",
+  "Who had the Policy of “One People, One State, and One Leader”?",
+  "What is the Chemical name of Chloroform?",
+  "Where is the headquarters of Coffee Board of India Located?",
+  "When is the International Day of Democracy Observed?",
+  "Which is the first Country to give Voting Right to Women?",
+  "What is the name of Currency of Belgium?",
+  "Who was the first Indian woman to receive Jnanapith Award?",
+  "Which is the Longest River of Southern India?",
+  "Which is the Capital of Himachal Pradesh?",
+  "Where is the Integral Coach Factory in India Located?",
+  "When is the International Biodiversity Day Observed?",
+  "Which is the leading Bus Terminus in Asia?",
+  "What is the expansion of BHEL?",
+  "Who wrote the book, “Glimpses of World History”?",
+  "Who won the Women’s singles title in 2017 American Open Tennis Championship?",
+  "Which is the Largest Cave in India?",
+  "Where is the Central Marine Research Institute Located?",
+  "What is the name of Currency of Zimbabwe?",
+  "Which is the Capital of USA?",
+  "What is the expansion of NASA?",
+  "Where is the Army Cadet College in India Located?",
+  "When is the National Physics Day Celebrated?",
+  "Which is the first Country to send Human to Moon?",
+  "Who wrote the book, “Man of Destiny”?",
+  "Who is the Brand Ambassador of Jharkhand tourism?",
+  "Who is the present Central Defence Minister?",
+  "When is the World Maths Day Celebrated?",
+  "What is the expansion of IGCAR?",
+  "Who is the present Central Railway Minister?",
+  "Who won the women’s singles title in Korea Open Super Series Badminton Championship 2017?",
+  "Which is the Capital of Tripura?",
+  "Who wrote the book, “Origin of Species”?",
+  "Which is the Highest Award given for Science in India?",
+  "Who started Public Works Department in India?",
+  "Which is the State Bird of Tamil Nadu?",
+  "Which is the Capital of the Union Territory Daman & Diu?",
+  "Where is the Sundarban Tiger Reserve Situated?",
+  "Which is the Longest National Highway in India?",
+  "What is the expansion of ICMR?",
+  "Where is the Central Food Technology Research Institute Located?",
+  "Who completed the construction of Qutub Minar?",
+  "Which state Government of India institutes Mahatma Gandhi Award?",
+  "Where is the Green park Stadium Located?",
+  "What is the name of playing area of Lawn Tennis?",
+  "When is the World Postal Day Observed?",
+               "Where is the National Institute of Ayurveda located?",
+"Which is the highest airport in India?",
+"Which city is the biggest centre for manufacture of automobiles in the world?",
+"Who wrote the book “Business @ The Speed of Thoughts”?",
+"Who is known as “the Iron Lady”?",
+"Where is the Centre for Environmental Education located?",
+"Where was the first Technology Park in India established?",
+"What is the name of the Parliament in the USA?",
+"Which city is known as the “City of Cycles”?",
+"Which city is known as the “Empire City”?",
+"Who is the Brand Ambassador of Incredible India?",
+"Who was the first Indian-born recipient to receive the Nobel Prize for Peace?",
+"Who is the present Central Minister of Drinking Water and Sanitation?",
+"Where is the Himalayan Forest Research Institute located?",
+"What is Entomology?",
+"Who wrote the book “As You Like It”?",
+"Who wrote the book “Gathering Storm”?",
+"Which is the longest highway in the world?",
+"Who was the first Governor General of Pakistan?",
+"Where is the Centre for Liquid Crystal Research located?",
+"Which country is known as “the Country of Copper”?",
+"Who is the Brand Ambassador of Skill India Mission?",
+"What is the name of the Parliament of Indonesia?",
+"Which city is known as the “City of Gold”?",
+"Which is the largest producer of rubber in the world?",
+"Where is the Institute of Forest Genetics & Tree Breeding located?",
+"Who is the first Viceroy of India?",
+"What was the earlier name of New York City?",
+"Who is the Brand Ambassador of the Central Reserve Police Force?",
+"Who is the present Central Minister of Human Resource Development?",
+"Who is the newly appointed Governor of Andaman & Nicobar Islands?",
+"Which Indian city is known as “the Diamond City”?",
+               "Who is the Brand Ambassador of Kerala’s Ayurveda?",
+"Which country is the largest producer of manganese in the world?",
+"Who is the first Governor General of India?",
+"Where is the Indian Institute of Foreign Trade located?",
+"Who wrote the book “War and Peace”?",
+"Where is S. N. Bose National Centre for Basic Sciences located?",
+"Who wrote the book “Oliver Twist”?",
+"What is the lifespan of RBC?",
+"What is the old name of Taiwan?",
+"What is the expansion of UNIDO?",
+"Who was the first President of the USA?",
+"Who said, “Man is a tool-making animal”?",
+"Who was the last British Viceroy of India?",
+"What is the chemical name of ruby?",
+"Where is the Central Institute of Indian Languages located?",
+"Who wrote the book “Wake Up India”?",
+"What is the expansion of STARS?",
+"Who is the world’s first woman cosmonaut?",
+"Which city is known as the “City of Cakes”?",
+"Which city is known as the “Motor City”?",
+"Where is the Centre for Wind Energy Technology located?",
+"Who wrote the book “The Godfather”?",
+"Who is the Brand Ambassador of Yoga and Ayurveda in Haryana?",
+"Who is the present Central Minister of Science and Technology?",
+"What is the chemical name of Vitamin C?",
+"When was the first crossword puzzle published?",
+"Name the country whose national anthem has only music but no words.",
+"Who invented the crossword puzzle?",
+"What is ailurophobia?",
+"Where is the Patagonian Desert located?",
+"Which is the first animated colour cartoon of full feature length?",
+"Which is the oldest residential university in Britain?",
+"Which city is selected under UNESCO’s Creative Cities Network for contribution in music?",
+               "What is the name of the large clock on the tower of the House of Parliament in London?",
+"Who was the founder of the kindergarten education system?",
+"Which is the first university established in the world?",
+"What is the expansion of CFO?",
+"What was the rank of India in the Valuable Nation Brand List 2017?",
+"When is World Standards Day observed?",
+"When was the first election of the Lok Sabha held?",
+"Which was the first country to issue stamps?",
+"Who introduced the practice of sterilisation of surgical instruments?",
+"When is the International Day for the Preservation of the Ozone Layer observed?",
+"Where is the famous painting “Mona Lisa” displayed?",
+"Name the river which carries the maximum quantity of water into the sea.",
+"Which country is known as “the Battlefield of Europe”?",
+"What is acrophobia?",
+"Which country stands first in the generation of geothermal energy?",
+"Where is the National Centre of Organic Farming located?",
+"Who wrote the book “Memories of the II World War”?",
+"What was the rank of India in the 2017 Global Business Optimism Ranking?",
+"When is the International Day for the Eradication of Poverty observed?",
+"The Department of Official Languages comes under which ministry?",
+"Where is the Great Victoria Desert located?",
+"Who coined the term “quiz”?",
+"How many countries participated in the first Olympic Games held at Athens?",
+"When is World Soil Day observed?",
+"Which is India’s first energy-efficient railway station?",
+"Where was the first demonstration of a motion picture held?",
+"Who is the new Chairman of the Petroleum and Natural Gas Regulatory Board (PNGRB)?",
+"How many keys are there in an ordinary piano?",
+"Who wrote the book “Seven Lamps of Architecture”?",
+"Who was the first Education Minister of independent India?",
   "When was the Indian Air Force’s Golden Jubilee celebrated?",
 "Which is the largest museum in the world?",
 "What is the name of the residence of the Queen of England?",
@@ -644,77 +643,547 @@ Who was the first Education Minister of independent India?",
 "When is National Post Office Day celebrated?",
 "What is the height of Mount Everest?",
 "Which is the largest country in the world?",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "shreya82928@gmail.com", "shubham86545@gmail.com", "sooraj82892@gmail.com", "sureshpatel71817@gmail.com", "vijay8575337@gmail.com", "watson82827@gmail.com", "aditya010328@gmail.com", "aashi1382000@gmail.com", "dhruv46674@gmail.com", "shishir85842@gmail.com", "suyash55573@gmail.com"];
-let pos;
+"How does the search engine rank results for ambiguous queries?",
+"What happens when two keywords have exactly the same relevance score?",
+"Can a search engine understand synonyms without being explicitly programmed?",
+"How does spelling correction influence search accuracy?",
+"What is the impact of stop words on search performance?",
+"How do search engines handle multilingual queries?",
+"Can a search engine detect user intent from a short query?",
+"What role does natural language processing play in modern search?",
+"How is query latency reduced in large-scale systems?",
+"What happens when a search index becomes corrupted?",
+"How do search engines personalise results for different users?",
+"What is the difference between crawling and indexing?",
+"How are duplicate pages handled in search results?",
+"Can a search engine rank images without metadata?",
+"How does voice search differ from text-based search?",
+"What is query expansion and why is it useful?",
+"How do search engines deal with sarcasm in queries?",
+"What happens when a query has no exact matches?",
+"How are trending searches detected in real time?",
+"What is the role of machine learning in ranking algorithms?",
+"How do search engines prevent spam results?",
+"What is the effect of query length on relevance?",
+"How is semantic search different from keyword search?",
+"Can a search engine understand context across multiple queries?",
+"How do search engines manage billions of documents efficiently?",
+"What is an inverted index and why is it important?",
+"How do search engines handle outdated information?",
+"What happens when a user searches using emojis?",
+"How do search engines balance freshness versus relevance?",
+"What is the difference between precision and recall in search?",
+"How do search engines interpret natural language questions?",
+"What role does click-through rate play in ranking?",
+"How can search engines detect fake news?",
+"What happens when two pages have identical content?",
+"How do search engines handle mathematical queries?",
+"What is federated search and where is it used?",
+"How does autocomplete influence user behaviour?",
+"What is the impact of slow servers on search ranking?",
+"How do search engines process Boolean queries?",
+"What happens when a query includes special characters?",
+"How do search engines handle regional language variations?",
+"What is zero-shot search in artificial intelligence?",
+"How do search engines evaluate page authority?",
+"What happens when a search engine goes offline?",
+"How do search engines optimise for mobile queries?",
+"What is the difference between organic and paid results?",
+"How do search engines handle spelling mistakes in Indian names?",
+"What role does user feedback play in improving search?",
+"How do search engines index real-time data streams?",
+"What happens when search results conflict with each other?",
+"How do search engines manage memory at scale?",
+"What is query rewriting and when is it applied?",
+"How do search engines support accessibility features?",
+"What is the effect of caching on search speed?",
+"How do search engines rank video content?",
+"What happens when a query is intentionally misleading?",
+"How do search engines handle legal takedown requests?",
+"What is the role of knowledge graphs in search?",
+"How do search engines process long-form questions?",
+"What happens when a query mixes multiple languages?",
+"How do search engines learn from failed searches?",
+"What is contextual search and why does it matter?",
+"How do search engines evaluate source credibility?",
+"What happens when a query has multiple possible intents?",
+"How do search engines reduce bias in results?",
+"What is the difference between lexical and semantic matching?",
+"How do search engines handle abbreviations?",
+"What happens when users search using slang terms?",
+"How do search engines support voice assistants?",
+"What is real-time indexing and how does it work?",
+"How do search engines manage energy consumption in data centres?",
+"What happens when a search query is incomplete?",
+"How do search engines rank local results?",
+"What is the impact of user location on search accuracy?",
+"How do search engines handle historical data?",
+"What happens when search results are intentionally manipulated?",
+"How do search engines interpret comparative queries?",
+"What is the role of embeddings in modern search?",
+"How do search engines scale during peak traffic?",
+"What happens when a query includes contradictory terms?",
+"How do search engines optimise for Indian regional searches?",
+"What is the future of AI-powered search engines?",
+  "What is gravity?",
+"Who invented the internet?",
+"How does photosynthesis work?",
+"What is artificial intelligence?",
+"Why is the sky blue?",
+"What is the capital of Japan?",
+"How does a blockchain work?",
+"What causes earthquakes?",
+"What is quantum computing?",
+"Who wrote Hamlet?",
+"What is inflation?",
+"How do aeroplanes fly?",
+"What is cloud computing?",
+"Why do humans dream?",
+"What is the speed of light?",
+"How does GPS work?",
+"What is a black hole?",
+"Who discovered electricity?",
+"What is machine learning?",
+"Why do stars twinkle?",
+"What is cryptocurrency?",
+"How does the human brain work?",
+"What is the tallest mountain?",
+"How does vaccination work?",
+"What is the stock market?",
+"Why is water colourless?",
+"What is the Big Bang?",
+"How does the internet work?",
+"What is DNA?",
+"Why do magnets attract?",
+"What is renewable energy?",
+"How do search engines work?",
+"What is the smallest particle?",
+"Why do leaves change colour?",
+"What is virtual reality?",
+"How does Bluetooth work?",
+"What is democracy?",
+"Why is the moon bright?",
+"What is a supercomputer?",
+"How does encryption work?",
+"What is climate change?",
+"Why do we sleep?",
+"What is the metaverse?",
+"How does a battery work?",
+"What is dark matter?",
+"Why do phones overheat?",
+"What is Newton’s first law?",
+"How does Wi-Fi work?",
+"What is an algorithm?",
+"Why do echoes occur?",
+"What is the solar system?",
+"How do submarines float?",
+"What is ethical hacking?",
+"Why do metals conduct electricity?",
+"What is 5G technology?",
+"How does a touchscreen work?",
+"What is artificial gravity?",
+"Why do we blink?",
+"What is cloud storage?",
+"How does radar work?",
+"What is nanotechnology?",
+"Why do shadows form?",
+"What is an operating system?",
+"How does face recognition work?",
+"What is renewable fuel?",
+"Why is iron magnetic?",
+"What is data science?",
+"How do satellites orbit Earth?",
+"What is the human genome?",
+"Why do volcanoes erupt?",
+"What is edge computing?",
+"How does voice recognition work?",
+"What is time dilation?",
+"Why does sound travel slower than light?",
+"What is a neural network?",
+"How does online payment work?",
+"What is green hydrogen?",
+"Why is gold expensive?",
+"What is a programming language?",
+"How does a compiler work?",
+"What is Mars made of?",
+"Why do we sweat?",
+"What is an electric vehicle?",
+"How does facial ageing occur?",
+"What is cyber security?",
+"Why is space silent?",
+"What is the future of AI?",
+  "What is an IP address?",
+"How does DNS work?",
+"What is cloud computing?",
+"What is edge computing?",
+"How does Wi-Fi work?",
+"What is 5G technology?",
+"What is a router?",
+"What is a modem?",
+"How does Bluetooth work?",
+"What is packet switching?",
+"What is latency?",
+"What is bandwidth?",
+"What is network congestion?",
+"What is TCP/IP?",
+"What is UDP?",
+"What is an API?",
+"What is a firewall?",
+"What is cyber security?",
+"What is encryption?",
+"What is decryption?",
+"What is two-factor authentication?",
+"What is a VPN?",
+"What is cloud storage?",
+"What is load balancing?",
+"What is a proxy server?",
+"What is NAT?",
+"What is IPv6?",
+"What is IPv4?",
+"What is a MAC address?",
+"What is a subnet?",
+"What is network topology?",
+"What is LAN?",
+"What is WAN?",
+"What is MAN?",
+"What is IoT?",
+"What is edge AI?",
+"What is artificial intelligence?",
+"What is machine learning?",
+"What is deep learning?",
+"What is data science?",
+"What is big data?",
+"What is a data centre?",
+"What is virtualisation?",
+"What is containerisation?",
+"What is Docker?",
+"What is Kubernetes?",
+"What is cloud migration?",
+"What is SaaS?",
+"What is PaaS?",
+"What is IaaS?",
+"What is serverless computing?",
+"What is a microservice?",
+"What is a distributed system?",
+"What is fault tolerance?",
+"What is high availability?",
+"What is redundancy?",
+"What is network security?",
+"What is ethical hacking?",
+"What is penetration testing?",
+"What is malware?",
+"What is ransomware?",
+"What is phishing?",
+"What is a DDoS attack?",
+"What is zero trust security?",
+"What is authentication?",
+"What is authorisation?",
+"What is hashing?",
+"What is SSL?",
+"What is TLS?",
+"What is HTTPS?",
+"What is HTTP?",
+"What is REST?",
+"What is GraphQL?",
+"What is a CDN?",
+"What is caching?",
+"What is real-time computing?",
+"What is message queuing?",
+"What is MQTT?",
+"What is WebSocket?",
+"What is network monitoring?",
+"What is packet loss?",
+"What is jitter?",
+"What is VoIP?",
+"What is SDN?",
+"What is NFV?",
+"What is network automation?",
+"What is DevOps?",
+"What is MLOps?",
+"What is Git?",
+"What is CI/CD?",
+"What is version control?",
+  "Who won the latest national election?",
+"What is the current GDP growth rate?",
+"Which country hosted the recent G20 summit?",
+"What is the latest inflation rate in India?",
+"Who is the current Chief Justice of India?",
+"What is the new education policy update?",
+"Which country launched a new space mission?",
+"What is the latest UN climate report?",
+"Which Indian state announced a new scheme?",
+"What is the current repo rate?",
+"Which country joined BRICS recently?",
+"What is happening in the Red Sea region?",
+"Who won the recent Nobel Prize?",
+"What is the latest global temperature record?",
+"Which country faces new economic sanctions?",
+"What is India’s latest space launch?",
+"Who is the current RBI Governor?",
+"What is the new digital privacy law?",
+"Which company became the most valuable?",
+"What is the latest AI regulation update?",
+"Which country held recent protests?",
+"What is the status of the Israel conflict?",
+"Which nation signed a new trade deal?",
+"What is the current crude oil price trend?",
+"Which Indian city launched a metro line?",
+"What is the latest Supreme Court verdict?",
+"Which country announced a carbon tax?",
+"What is the latest cybersecurity breach?",
+"Who is the current UK Prime Minister?",
+"What is the new defence procurement deal?",
+"Which state topped ease-of-living index?",
+"What is the current unemployment rate?",
+"Which country banned social media apps?",
+"What is the latest WHO health advisory?",
+"Which Indian startup became a unicorn?",
+"What is the new satellite launch update?",
+"Which country exited an international pact?",
+"What is the latest election commission ruling?",
+"Which nation imposed export restrictions?",
+"What is the latest monsoon forecast?",
+"Which global bank collapsed recently?",
+"What is the new semiconductor policy?",
+"Which country tested a new missile?",
+"What is the latest digital currency update?",
+"Which Indian law was recently amended?",
+"What is the new AI safety guideline?",
+"Which country faced a natural disaster?",
+"What is the current forex reserve level?",
+"Which nation announced visa rule changes?",
+"What is the latest stock market trend?",
+"Which country recognised a new state?",
+"What is the new defence alliance update?",
+"Which Indian airport was inaugurated?",
+"What is the latest electric vehicle policy?",
+"Which nation imposed internet shutdowns?",
+"What is the current food price index?",
+"Which global summit concluded recently?",
+"What is the new climate finance pledge?",
+"Which Indian PSU was privatised?",
+"What is the latest border dispute update?",
+"Which country reported record inflation?",
+"What is the new labour law change?",
+"Which tech company faced antitrust action?",
+"What is the latest space station update?",
+"Which nation announced military mobilisation?",
+"What is the new renewable energy target?",
+"Which Indian state changed its tax policy?",
+"What is the current foreign policy stance?",
+"Which country legalised a new law?",
+"What is the latest education reform?",
+"Which nation faced a currency crisis?",
+"What is the new telecom regulation?",
+"Which country announced election dates?",
+"What is the latest digital payment update?",
+"Which Indian city topped smart city rankings?",
+"What is the new data protection rule?",
+"Which nation announced peace talks?",
+"What is the latest defence exercise?",
+"Which country restricted chip exports?",
+"What is the new public health scheme?",
+"Which Indian sector saw highest growth?",
+"What is the latest Arctic climate update?",
+"Which nation recalled its ambassador?",
+"What is the new global tax proposal?",
+"Which Indian mission was launched abroad?",
+"What is the current geopolitical flashpoint?",
+"What is the latest policy reform?",
+  "What is outer space?",
+"How far is the Moon?",
+"What is a black hole?",
+"How do rockets launch?",
+"What is the speed of light?",
+"Why do stars twinkle?",
+"What is the Sun made of?",
+"How old is the universe?",
+"What is the Big Bang?",
+"Why is space silent?",
+"What is a galaxy?",
+"How many planets exist?",
+"What is the Milky Way?",
+"Why does the Moon glow?",
+"What is zero gravity?",
+"How do astronauts breathe?",
+"What is dark matter?",
+"What is dark energy?",
+"How do satellites orbit?",
+"What is an exoplanet?",
+"Why is Mars red?",
+"What is a nebula?",
+"How big is the universe?",
+"What is a supernova?",
+"Why is Pluto a dwarf planet?",
+"What is a light-year?",
+"How does a space suit work?",
+"What causes solar flares?",
+"What is the asteroid belt?",
+"How do telescopes work?",
+"What is the ISS?",
+"Why does the Sun shine?",
+"What is cosmic radiation?",
+"How do meteors burn?",
+"What is a comet?",
+"Why is Venus hot?",
+"What is space-time?",
+"How does gravity work in space?",
+"What is a pulsar?",
+"Why does Earth have life?",
+"What is the Kuiper Belt?",
+"How do space probes communicate?",
+"What is orbital velocity?",
+"Why do eclipses occur?",
+"What is escape velocity?",
+"How does re-entry work?",
+"What is a space station?",
+"Why is Jupiter massive?",
+"What is the Oort Cloud?",
+"How are stars born?",
+"What is cosmic microwave background?",
+"Why is Uranus tilted?",
+"What is a rover?",
+"How does solar wind form?",
+"What is a launch window?",
+"Why is Mercury cratered?",
+"What is interstellar space?",
+"How does space docking work?",
+"What is a red giant?",
+"Why does time slow in space?",
+"What is gravitational lensing?",
+"How do astronauts sleep?",
+"What is a binary star?",
+"Why is Saturn ringed?",
+"What is planetary alignment?",
+"How does a gyroscope work in space?",
+"What is a brown dwarf?",
+"Why is Earth habitable?",
+"What is a space telescope?",
+"How does ion propulsion work?",
+"What is cosmic dust?",
+"Why do stars explode?",
+"What is a magnetosphere?",
+"How do astronauts train?",
+"What is space debris?",
+"Why is the sky dark in space?",
+"What is a lunar eclipse?",
+"How does radio astronomy work?",
+"What is a habitable zone?",
+"Why does Mars lack oxygen?",
+"What is stellar fusion?",
+"How do galaxies collide?",
+"What is a space-time singularity?",
+"What is the future of space travel?",
+  "What is the longest road in India?",
+"Which country has the most highways?",
+"What is the highest motorable road?",
+"Which country shares the longest border with India?",
+"What is the capital of France?",
+"Which road connects Delhi to Mumbai?",
+"Which country is landlocked?",
+"What is the longest highway in the world?",
+"Which countries border China?",
+"What is the busiest airport in India?",
+"Which road is called the Silk Road?",
+"Which country has no rivers?",
+"What is the Indus Highway?",
+"Which country is smallest by area?",
+"Which border separates India and Pakistan?",
+"Which city is at the road junction of India?",
+"Which country has the largest population?",
+"What is the Pan-American Highway?",
+"Which country borders Germany?",
+"What is the Golden Quadrilateral?",
+"Which country has the longest coastline?",
+"What is a toll road?",
+"Which border is called the Line of Control?",
+"Which country is east of India?",
+"Which city is on the Grand Trunk Road?",
+"Which country is north of Nepal?",
+"What is a national highway?",
+"Which countries share the Himalayas?",
+"Which border is disputed in Kashmir?",
+"Which road connects Chennai to Bengaluru?",
+"Which country is south of India?",
+"What is an expressway?",
+"Which country borders Afghanistan?",
+"What is the difference between a road and a highway?",
+"Which border is the Wagah Border?",
+"Which country is west of Bangladesh?",
+"Which highway connects Delhi to Kolkata?",
+"Which country is called the Land of the Rising Sun?",
+"Which countries are in the European Union?",
+"Which road passes through Ladakh?",
+"Which country is on the Arabian Peninsula?",
+"What is the Delhi–Meerut Expressway?",
+"Which country shares a border with Bhutan?",
+"Which city is on the Mumbai–Pune Expressway?",
+"Which border is the India–China Line of Actual Control?",
+"Which country is the largest in Africa?",
+"Which road is famous in Rajasthan?",
+"Which countries border Russia?",
+"What is the significance of the Suez Canal?",
+"Which highway is NH44?",
+"Which country is south of China?",
+"Which border connects India and Bangladesh?",
+"What is the Chennai–Bangalore Highway?",
+"Which country is north of Pakistan?",
+"Which road is the Karakoram Highway?",
+"Which country is in South America?",
+"Which border separates India and Myanmar?",
+"What is the North–South Expressway?",
+"Which country is in Scandinavia?",
+"Which highway connects Mumbai to Surat?",
+"Which country has both Atlantic and Pacific coasts?",
+"Which border is in Ladakh?",
+"Which road is famous in Himachal Pradesh?",
+"Which country is east of Russia?",
+"What is a ring road?",
+"Which countries share the Andes?",
+"Which border is Patrolling Line?",
+"Which highway is NH48?",
+"Which country borders Saudi Arabia?",
+"What is a four-lane highway?",
+"Which country is west of India?",
+"Which road passes through Uttarakhand?",
+"Which border is disputed in Arunachal Pradesh?",
+  "Which countries share the Alps?",
+"Which highway is NH66?",
+"Which country has the most islands?",
+"Which border is the Radcliffe Line?",
+"Which road is famous in Kerala?",
+"Which country is south of Nepal?",
+"Which countries border Italy?",
+"Which highway connects Delhi to Jaipur?",
+"Which border separates India and Sri Lanka?",
+"Which road passes through Gujarat?",
+"Which country is landlocked in Africa?",
+"Which border is in Sikkim?",
+"Which country is largest in Europe?",
+"Which highway connects Agra to Lucknow?",
+"Which country borders Vietnam?",
+"Which road is famous in Rajasthan desert?",
+"Which border connects India and Nepal?",
+"Which countries share the Himalayas with India?",
+"Which highway passes through Punjab?",
+"Which country has the largest desert?",
+"Which road is NH27?",
+"Which border separates India and China?",
+"Which country has the longest unbroken coastline?",
+"Which highway is the North–South Corridor?",
+"Which country is east of Pakistan?",
+"Which road passes through Telangana?",
+"Which border is famous at Amritsar?",
+"Which country has the highest number of airports?",
+"Which highway connects Kolkata to Siliguri?",
+"Which countries border Turkey?",
+"Which road passes through Madhya Pradesh?",
+  "how to boil an egg", "weather in london today", "best laptop for gaming 2026", "cheap flights to paris", "how to fix a leaky faucet", "symptoms of common cold", "nearest coffee shop", "how to lose weight fast", "iphone 17 pro price", "how to make sourdough bread", "top movies on netflix", "how to tie a tie", "capital of australia", "best running shoes for flat feet", "how to take a screenshot on mac", "benefits of meditation", "how to plant tomatoes", "stock price of apple", "how to write a resume", "what is my ip address", "best pizza near me", "how to learn python", "prime video login", "how to fall asleep fast", "distance from earth to moon", "how to clean a microwave", "best sunscreen for oily skin", "how to play chess", "what time is it in tokyo", "how to delete instagram account", "best wireless earbuds", "how to meditate for beginners", "yoga for back pain", "how to change a tire", "meaning of life", "best protein powder", "how to draw a dog", "is it going to rain tomorrow", "how to roast chicken", "best budget smartphones", "how to speed up windows 11", "healthy breakfast ideas", "how to use chatgpt", "best books of all time", "how to speak spanish", "gyms near me", "how to solve a rubiks cube", "what is inflation", "how to make a paper airplane", "best electric cars 2026", "how to get rid of ants", "hotels in new york", "how to reduce stress", "best way to save money", "how to stop snoring", "what is the metaverse", "how to bake chocolate chip cookies", "best shampoo for hair growth", "how to do a pushup", "world news today", "how to make coffee at home", "best hiking trails near me", "how to improve credit score", "what is artificial intelligence", "how to clean white shoes", "best noise cancelling headphones", "how to grill steak", "dog friendly beaches", "how to edit photos", "best vacuum cleaner for pet hair", "how to start a blog", "what is a black hole", "how to get a passport", "best air fryer recipes", "how to study effectively", "mortgage calculator", "how to cure a hangover", "best moisturizers for dry skin", "how to make a website", "what is gluten", "how to wash silk", "best podcast 2026", "how to invest in stocks", "amazon customer service number", "how to make a margarita", "best ways to learn a language", "how to reset iphone", "what is quantum computing", "how to get more sleep", "best vitamins for energy", "how to cook rice", "pizza hut menu", "how to train a puppy", "best free antivirus", "how to unclog a drain", "what is cryptocurrency", "how to dye hair at home", "best mechanical keyboards", "how to write a cover letter", "average salary for software engineer", "how to make slime", "best restaurants in chicago", "how to build a deck", "what is the stock market", "how to organize a closet", "best skincare routine", "how to use a compass", "translating english to french", "how to make pancakes", "best external hard drives", "how to lower blood pressure", "what is 5g", "how to paint a room", "best cat food brands", "how to save for retirement", "current gold price", "how to trim bangs", "best indoor plants", "how to fix blue screen of death", "what is the fastest car", "how to make iced coffee", "best travel insurance", "how to get oil stains out of clothes", "what is a recession", "how to start a business", "best gaming monitors", "how to use excel vlookup", "why is the sky blue", "how to make pizza dough", "best oil for cooking", "how to improve posture", "what time does target close", "how to stop procrastination", "best water bottles", "how to make a smoothie", "what is keto diet", "how to change spark plugs", "best yoga mats", "how to screen record on iphone", "what is machine learning", "how to make candles", "best cordless drills", "how to lose belly fat", "meaning of serendipity", "how to iron a shirt", "best baby strollers", "how to treat a burn", "what is global warming", "how to make hummus", "best photo editing apps", "how to brew kombucha", "when is easter 2026", "how to get rid of fruit flies", "best electric toothbrushes", "how to use a slow cooker", "what is a nft", "how to make guacamole", "best work from home jobs", "how to clean a dishwasher", "what is the tallest mountain", "how to do a french braid", "best backpacks for travel", "how to make french toast", "where to buy bitcoin", "how to sharpen a knife", "best standing desks", "how to prune roses", "what is a firewall", "how to make lasagna", "best credit cards for travel", "how to stop a cold", "what is the largest planet", "how to draw a rose", "best mattresses 2026", "how to get a job at google", "what is the speed of light", "how to make pesto", "best outdoor fire pits", "how to fix a cracked phone screen", "what is social engineering", "how to make hard boiled eggs", "best bluetooth speakers", "how to get rid of dandruff", "what is an api", "how to cook salmon", "best fonts for resumes", "how to cancel netflix", "what is sustainable fashion", "how to make lemonade", "best sunscreen for kids", "how to write a poem", "what is the p versus np problem", "how to knit a scarf", "best camping gear", "how to remove wallpaper", "what is a proxy server", "how to make a martini", "best office chairs", "how to clean a keyboard",
+  "how to reset bios password", "best hiking boots for wide feet", "how to grow lavender from seed", "symptoms of vitamin d deficiency", "how to cook spaghetti squash", "best ways to increase productivity", "how to get red wine out of carpet", "what is the deepest ocean", "how to use a multimeter", "best budget 4k tvs", "how to propagate succulents", "what is a smart contract", "how to make homemade pasta", "best cat litters for odor control", "how to delete search history", "what is the boiling point of water", "how to fix a stuck zipper", "best moisturizer with spf", "how to meditate for anxiety", "what is the largest desert", "how to bake a potato", "best noise cancelling earplugs", "how to get a business license", "what is the purpose of a vpn", "how to clean a leather jacket", "best outdoor security cameras", "how to make a vinaigrette", "what is cloud computing", "how to improve typing speed", "best vitamins for hair and nails", "how to wash a weighted blanket", "what is a mortgage rate", "how to make fluffy pancakes", "best plants for low light", "how to fix drift on controller", "what is the difference between active and passive income", "how to clean a cast iron skillet", "best non-stick pans 2026", "how to set up two-factor authentication", "what is the richest country in the world", "how to make an espresso at home", "best running apps for beginners", "how to get rid of fruit flies in kitchen", "what is a heat pump", "how to do a smoky eye", "best affordable watches for men", "how to change air filter in car", "what is the greenhouse effect", "how to make chicken stock", "best solar panels for home", "how to backup iphone to mac", "what is a 401k", "how to treat a wasp sting", "best compression socks for travel", "how to make a paper crane", "what is the most spoken language", "how to clean windows without streaks", "best gaming chairs for back pain", "how to fix a slow laptop", "what is dividend investing", "how to poach an egg", "best dog food for sensitive stomachs", "how to get better at chess", "what is the distance to mars", "how to use a moka pot", "best luggage for international travel", "how to remove rust from metal", "what is a recession in economics", "how to make vegetable soup", "best electric shavers for sensitive skin", "how to cancel hulu subscription", "what is the capital of brazil", "how to stop a door from squeaking", "best telescopes for stargazing", "how to calculate percentage", "what is the holy grail of physics", "how to make cold brew coffee", "best affordable protein powder", "how to transfer photos from phone to computer", "what is universal basic income", "how to clean a coffee maker", "best essential oils for sleep", "how to build a pc for beginners", "what is the most popular sport", "how to make a resume with no experience", "best earbuds for small ears", "how to survive a long flight", "what is the coldest place on earth", "how to cook corn on the cob", "best mountain bikes under 1000", "how to get grease stains out of clothes", "what is the function of the liver", "how to make a sourdough starter", "best face wash for acne", "how to disable windows updates", "what is a bull market", "how to train for a 5k", "best robotic vacuum cleaners", "how to make garlic bread", "what is the most expensive car", "how to unclog a toilet without a plunger", "best books on psychology", "how to create a budget spreadsheet", "what is the speed of sound", "how to roast vegetables", "best travel destinations for 2026", "how to fix a blurry photo", "what is the smallest country", "how to make a protein shake", "best winter coats for extreme cold", "how to get scuffs off leather shoes", "what is the internet of things", "how to do a plank correctly", "best soundbars for tv", "how to wash a puffer jacket", "what is the most common blood type", "how to make oatmeal", "best mechanical pencil for drawing", "how to stop a nosebleed", "what is a credit score range", "how to pickle onions", "best garden tools for beginners", "how to use a foam roller", "what is the largest organ in the human body", "how to make apple cider vinegar", "best kitchen knives for chefs", "how to remove permanent marker from skin", "what is the population of the world", "how to bake salmon in foil", "best portable chargers for travel", "how to fix a leaky shower head", "what is a binary code", "how to make a latte", "best wireless chargers for iphone", "how to get rid of weeds in lawn", "what is the sun made of", "how to wash a baseball cap", "best camping stoves", "how to improve public speaking", "what is the most dense element", "how to cook bacon in the oven", "best home gym equipment", "how to delete a facebook page", "what is a black hole event horizon", "how to make banana bread", "best humidifier for baby", "how to clean an oven with baking soda", "what is the main cause of inflation", "how to do a squat", "best tablet for students", "how to stop shoes from rubbing", "what is the difference between a hurricane and a typhoon", "how to make pizza sauce", "best charcoal grills", "how to change time on apple watch", "what is the largest animal in the world", "how to make tea", "best reusable water bottles", "how to clean a flat screen tv", "what is the purpose of the ozone layer", "how to fry an egg", "best laptop for video editing", "how to get rid of a headache", "what is the most abundant gas in the atmosphere", "how to make whipped coffee", "best pillow for side sleepers", "how to remove super glue from fingers", "what is the largest ocean in the world", "how to make hard candy", "best bike helmets for safety", "how to fix a dripping tap", "what is the rarest eye color", "how to make a grilled cheese sandwich", "best mascara for long lashes", "how to update drivers on windows 10", "what is the first law of thermodynamics", "how to grow strawberries in pots", "best walking shoes for elderly", "how to clean a yoga mat", "what is the capital of canada", "how to make mashed potatoes", "best drones for photography", "how to remove a stripped screw", "what is the largest bird", "how to make a smoothie bowl", "best electric bikes 2026", "how to clean a computer mouse", "what is a firewall in networking", "how to make salsa", "best budget tablets", "how to sharpen scissors", "what is the most popular video game", "how to make french fries", "best sunscreen for swimming", "how to clean white sneakers", "what is the average human body temperature", "how to make scrambled eggs", "best cordless vacuums", "how to fix a broken nail", "what is the longest river in the world",
+  "how to reset a smart thermostat", "best solar chargers for backpacking", "how to grow organic kale", "symptoms of iron deficiency in women", "how to cook spaghetti squash in air fryer", "best productivity apps for mac 2026", "how to get chocolate out of a white shirt", "what is the deepest lake in the world", "how to use a multimeter to test a battery", "best budget 8k tvs for gaming", "how to propagate a fiddle leaf fig", "what is a decentralized autonomous organization", "how to make homemade ramen noodles", "best cat litter for multiple cats", "how to delete cookies on chrome", "what is the freezing point of gasoline", "how to fix a stuck sliding glass door", "best tinted moisturizer for oily skin", "how to meditate while walking", "what is the largest canyon in the world", "how to bake sweet potatoes in the oven", "best earplugs for light sleepers", "how to get an llc for a small business", "what is a mesh wifi system", "how to clean a suede jacket at home", "best floodlight cameras for home security", "how to make a balsamic glaze", "what is edge computing", "how to improve typing speed for coding", "best supplements for muscle recovery", "how to wash a down comforter", "what is a good interest rate for a house", "how to make crepes from scratch", "best hanging plants for low light", "how to fix a drifting joystick on switch", "what is the difference between a 401k and an ira", "how to season a cast iron skillet", "best ceramic frying pans 2026", "how to set up passkeys on google", "what is the most expensive city to live in", "how to make a pour over coffee", "best fitness trackers for swimming", "how to get rid of drain flies", "what is a hybrid heat pump", "how to do a cat eye eyeliner", "best automatic watches under 500", "how to check car oil levels", "what is the carbon cycle", "how to make beef bone broth", "best portable solar panels for van life", "how to transfer data from android to iphone", "what is a roth ira", "how to treat a jellyfish sting", "best neck pillows for long flights", "how to make an origami butterfly", "what is the most spoken dialect in india", "how to clean windows with vinegar", "best ergonomic chairs for gaming", "how to speed up a slow macbook", "what is value investing", "how to poach an egg in the microwave", "best raw dog food brands", "how to win at checkers every time", "what is the distance to the sun", "how to use an aeropress", "best carry on luggage for international flights", "how to remove rust from chrome", "what is a bear market in crypto", "how to make minestrone soup", "best electric razors for thick beards", "how to cancel disney plus subscription", "what is the capital of vietnam", "how to stop a door from slamming", "best beginner telescopes for kids", "how to calculate compound interest", "what is the grand unified theory", "how to make nitro cold brew", "best pea protein powder", "how to move photos from icloud to google photos", "what is a smart city", "how to clean a keurig", "best lavender essential oil brands", "how to build a gaming pc for under 1000", "what is the world's most popular sport", "how to write a cover letter for internship", "best wireless earbuds for work calls", "how to prevent motion sickness", "what is the hottest place on earth", "how to cook corn on the cob in the microwave", "best gravel bikes 2026", "how to get grass stains out of jeans", "what is the function of the spleen", "how to feed a sourdough starter", "best salicylic acid cleansers", "how to disable startup apps windows 11", "what is a limit order", "how to run a faster mile", "best cordless stick vacuums", "how to make cheesy garlic bread", "what is the most expensive watch", "how to unclog a sink with baking soda", "best books on stoicism", "how to create a personal budget in excel", "what is the speed of gravity", "how to roast carrots in the oven", "best solo travel destinations 2026", "how to unblur a video", "what is the smallest city in the world", "how to make a protein mug cake", "best heated jackets for winter", "how to remove salt stains from leather boots", "what is the industrial internet of things", "how to do a side plank", "best soundbars with dolby atmos", "how to wash a wool sweater", "what is the most common eye color", "how to make steel cut oats", "best drafting pencils for architects", "how to stop a sneeze", "what is a fico score", "how to pickle cucumbers", "best pruning shears for gardening", "how to use a foam roller for quads", "what is the largest bone in the human body", "how to make fire with sticks", "best chef knives for home cooks", "how to remove permanent marker from a whiteboard", "what is the current population of india", "how to bake salmon with lemon", "best power banks for steam deck", "how to fix a running toilet", "what is a hex code", "how to make a flat white at home", "best magnetic wireless chargers", "how to get rid of dandelions", "what is the sun's surface temperature", "how to wash a dry clean only shirt", "best backpacking stoves for wind", "how to improve active listening skills", "what is the most abundant element in the universe", "how to cook thick bacon in the oven", "best adjustable dumbbells for home gym", "how to delete a discord server", "what is a singularity in a black hole", "how to make zucchini bread", "best cool mist humidifiers", "how to clean a glass top stove", "what is core inflation", "how to do a goblet squat", "best e-readers for manga", "how to stretch new shoes", "what is the difference between an earthquake and a tremor", "how to make spicy pizza sauce", "best pellet grills 2026", "how to change the band on apple watch", "what is the heaviest animal on land", "how to make chai tea from scratch", "best glass water bottles", "how to clean a plasma tv screen", "what is the hole in the ozone layer", "how to fry an egg over easy", "best laptops for graphic design", "how to stop a migraine early", "what is the most common gas in earth's atmosphere", "how to make dalgona coffee", "best memory foam pillows", "how to remove super glue from plastic", "what is the largest sea in the world", "how to make rock candy", "best mips bike helmets", "how to fix a leaky kitchen faucet", "what is the rarest blood type", "how to make a tuna melt", "best waterproof mascara", "how to update bios on msi motherboard", "what is the second law of thermodynamics", "how to grow raspberries in containers", "best shoes for standing all day", "how to clean a cork yoga mat", "what is the capital of australia", "how to make creamy mashed potatoes", "best fpv drones 2026", "how to remove a broken key from a lock", "what is the largest eagle", "how to make a berry smoothie bowl", "best commuter e-bikes", "how to clean a mechanical keyboard", "what is a vlan", "how to make mango salsa", "best cheap tablets for kids", "how to sharpen a lawn mower blade", "what is the most played game in the world", "how to make waffle fries", "best organic sunscreen for face", "how to clean white leather sneakers", "what is the average internal body temperature", "how to make soft scrambled eggs", "best upright vacuums for carpet", "how to fix a broken glasses frame", "what is the shortest river in the world",
+  "how to reset a forgotten windows 11 password", "best hiking boots for narrow feet", "how to grow organic basil in a pot", "symptoms of magnesium deficiency", "how to cook acorn squash in a microwave", "best productivity methods for students", "how to get oil stains out of a driveway", "what is the deepest part of the ocean", "how to use a multimeter to check continuity", "best budget 8k monitors for designers", "how to propagate a spider plant", "what is a liquid democracy", "how to make homemade udon noodles", "best cat food for indoor cats", "how to delete browsing history on safari", "what is the freezing point of salt water", "how to fix a squeaky wooden floor", "best moisturizer for sensitive skin with spf", "how to meditate for better focus", "what is the largest monolith in the world", "how to bake a whole pumpkin", "best earplugs for construction workers", "how to register a trademark for a brand", "what is a tri-band router", "how to clean a wool coat at home", "best smart locks for apartment renters", "how to make a honey mustard dressing", "what is serverless computing", "how to improve typing accuracy", "best supplements for brain health", "how to wash a weighted vest", "what is a fixed-rate mortgage", "how to make belgian waffles", "best tall plants for indoor privacy", "how to fix joy-con drift permanently", "what is the difference between a bull and bear market", "how to clean a stainless steel pan", "best cast iron skillets 2026", "how to set up a passkey on windows", "what is the most expensive neighborhood in the world", "how to make a pour over coffee without a filter", "best fitness trackers for weightlifting", "how to get rid of gnats in houseplants", "what is a geothermal heat pump", "how to do a winged eyeliner for hooded eyes", "best luxury watches under 1000", "how to check tire tread depth with a penny", "what is the nitrogen cycle", "how to make vegetable stock from scraps", "best solar generators for camping", "how to transfer contacts from iphone to android", "what is a 529 plan", "how to treat a bee sting naturally", "best lumbar support pillows for cars", "how to make an origami crane", "what is the second most spoken language", "how to clean glass shower doors with vinegar", "best office chairs for lower back pain", "how to speed up a slow android phone", "what is growth investing", "how to poach an egg without a poacher", "best grain-free dog food brands", "how to win at tic-tac-toe every time", "what is the distance from earth to mars", "how to use a french press for tea", "best hard shell luggage for travel", "how to remove rust from tools", "what is a technical recession", "how to make lentil soup", "best electric trimmers for beards", "how to cancel apple tv plus subscription", "what is the capital of sweden", "how to stop a gate from sagging", "best telescopes for viewing planets", "how to calculate margin of error", "what is the string theory", "how to make instant iced coffee", "best soy protein powder", "how to move photos from google photos to icloud", "what is a circular economy", "how to clean a drip coffee maker", "best eucalyptus essential oil", "how to build a silent pc", "what is the world's most popular sport by fans", "how to write a formal resignation letter", "best earbuds for sleeping on your side", "how to prevent altitude sickness", "what is the coldest city in the world", "how to cook corn on the cob on the grill", "best road bikes under 2000", "how to get ink stains out of clothes", "what is the function of the gallbladder", "how to revive a dead sourdough starter", "best benzoyl peroxide cleansers", "how to disable bixby on samsung", "what is a stop-loss order", "how to run a marathon for beginners", "best handheld vacuums for stairs", "how to make cheesy breadsticks", "what is the most expensive item on amazon", "how to unclog a bathtub drain with hair", "best books on game theory", "how to create a budget for a wedding", "what is the speed of light in water", "how to roast parsnips", "best tropical vacation spots 2026", "how to fix a grainy photo", "what is the smallest state in the us", "how to make a vegan protein shake", "best heated gloves for skiing", "how to remove scuff marks from walls", "what is industry 4.0", "how to do a weighted plank", "best soundbars for small rooms", "how to wash a cashmere sweater", "what is the rarest eye color in the world", "how to make overnight oats", "best mechanical pencils for writing", "how to stop a tickle in your throat", "what is a good credit score for a car loan", "how to pickle jalapenos", "best loppers for tree branches", "how to use a foam roller for hamstrings", "what is the longest bone in the body", "how to make a campfire in the rain", "best santoku knives for beginners", "how to remove permanent marker from wood", "what is the population of china 2026", "how to bake salmon with asparagus", "best power banks for laptops", "how to fix a leaky faucet handle", "what is a mac address", "how to make a macchiato at home", "best vertical wireless chargers", "how to get rid of clover in lawn", "what is the moon's surface temperature", "how to wash a silk pillowcase", "best liquid fuel camping stoves", "how to improve charisma", "what is the most reactive element", "how to cook bacon in the air fryer", "best home rowing machines", "how to delete a reddit account", "what is the event horizon of a black hole", "how to make pumpkin bread", "best humidifiers for large rooms", "how to clean a cast iron griddle", "what is hyperinflation", "how to do a front squat", "best e-readers for textbooks", "how to stretch tight leather shoes", "what is the difference between a comet and an asteroid", "how to make homemade pizza sauce with fresh tomatoes", "best wood pellet grills 2026", "how to change the battery in a key fob", "what is the fastest land animal", "how to make green tea", "best insulated water bottles", "how to clean a projector lens", "what is the atmospheric pressure at sea level", "how to fry an egg sunny side up", "best laptops for coding 2026", "how to stop a tension headache", "what is the most common gas in the sun", "how to make instant dalgona coffee", "best latex pillows", "how to remove super glue from metal", "what is the largest gulf in the world", "how to make maple candy", "best cycling helmets for commuting", "how to fix a leaky outdoor faucet", "what is the rarest blood type in the world", "how to make a patty melt", "best lengthening mascara", "how to update bios without cpu", "what is the third law of thermodynamics", "how to grow blueberries in pots", "best sneakers for walking all day", "how to clean a rubber yoga mat", "what is the capital of switzerland", "how to make garlic mashed potatoes", "best cinewhoop drones 2026", "how to remove a broken bolt", "what is the largest living bird", "how to make a green smoothie bowl", "best folding e-bikes", "how to clean a laptop screen without streaks", "what is a subnet mask", "how to make peach salsa", "best android tablets for drawing", "how to sharpen a pocket knife", "what is the most played video game 2026", "how to make curly fries", "best mineral sunscreen for face", "how to clean suede sneakers", "what is the average internal temperature of a human", "how to make fluffy scrambled eggs", "best robot vacuums for hardwood floors", "how to fix a scratched eyeglass lens", "what is the deepest river in the world",
+  "what to watch on netflix tonight", "where is my tax refund 2026", "how to get cursor ai pro for free", "symptoms of lightheadedness and fatigue", "how to lower a1c naturally", "best pickleball paddle for seniors", "how to screenshot on macbook air", "what is my ip address ipv6", "how many ounces in a cup of water", "what time is sunset in london", "how to lose weight fast without exercise", "why is the sky blue for kids", "when is the next full moon 2026", "can dogs eat bananas or strawberries", "how to delete instagram account permanently 2026", "is reddit down right now", "how to deal with construction site noise", "where to watch india vs england cricket", "what is a software framework in coding", "how to add volume to thin hair naturally", "when is easter 2026", "who is the richest person in the world 2026", "how to create an invoice for freelance work", "why does my stomach hurt after eating", "how old is taylor swift", "does green tea have more caffeine than coffee", "are banks open today on bank holiday", "how to learn javascript for beginners 2026", "what is today's national holiday", "where am i right now on google maps", "how many weeks in a year exactly", "what song is this playing in the background", "how to fix a grainy video on iphone", "best exosome serum for anti aging", "how to use beef tallow moisturizer", "where to buy toobit crypto", "best hyrox training plan for beginners", "how to setup agentic ai for business", "what is cloud 3.0 technology", "how to reduce digital eye strain", "best slowcation destinations in europe", "how to start a digital detox", "meaning of brain wealth vs brain health", "how to make a dubai chocolate bar at home", "best winter performance jackets 2026", "how to fix cursor ai terminal errors", "what is the current price of bitcoin in usd", "how to automate sourdough starter feeding", "best high protein snacks for weight loss", "how to fix type mismatch error in python", "what is a null pointer exception in java", "how to use a debugger in vs code", "best ways to avoid syntax errors in c++", "how to fix division by zero in excel", "what is the difference between logic and semantic errors", "how to handle memory leaks in node js", "best practice for exception handling in rust", "how to fix a 404 not found error", "what is an api gateway and how it works", "how to use r-a-g with generative ai", "best low code platforms for small business 2026", "how to prevent ai bias in algorithms", "what is sustainable green computing", "how to fix bluetooth lag on windows 11", "best noise cancelling headphones for office", "how to clean a leather sofa with vinegar", "what are the symptoms of anxiety in adults", "how to improve sleep quality naturally", "best way to manage stress at work", "how to boost immune system during winter", "what is the cause of kidney stones", "how to lower cholesterol without medication", "best way to learn a new language fast", "how to start a vegetable garden for beginners", "what is the most popular video game right now", "how to fix a leaky faucet in the bathroom", "best affordable smartphones 2026", "how to write a resume for a career change", "what is the current rate of inflation", "how to invest in index funds for beginners", "best ways to save money on groceries", "how to stop procrastination and get things done", "what is the meaning of life according to philosophy", "how to bake a potato in an air fryer", "best yoga poses for lower back pain", "how to change a flat tire on a car", "what is the speed of light in a vacuum", "how to make a paper airplane that flies far", "best electric cars under 30000 dollars", "how to get rid of ants in the kitchen", "what is the tallest building in the world", "how to do a french braid on yourself", "best travel insurance for international trips", "how to sharpen a kitchen knife with a stone", "what is a firewall and why do i need one", "how to make lasagna with cottage cheese", "best credit cards for travel points 2026", "how to stop a cold when you feel it coming on", "what is the largest planet in our solar system", "how to draw a realistic rose step by step", "best mattress for side sleepers with back pain", "how to get a job at a big tech company", "what is the speed of sound in air", "how to make basil pesto from scratch", "best outdoor fire pits for wood burning", "how to fix a cracked screen on a smartphone", "what is social engineering in cybersecurity", "how to make hard boiled eggs that are easy to peel", "best bluetooth speakers under 100 dollars", "how to get rid of dandruff permanently", "what is an api and how do developers use it", "how to cook salmon in the oven at 400", "best fonts for a professional resume 2026", "how to cancel netflix subscription on phone", "what is sustainable fashion and why does it matter", "how to make homemade lemonade with honey", "best sunscreen for kids with sensitive skin", "how to write a poem for a wedding", "what is the p versus np problem in math", "how to knit a scarf for beginners", "best camping gear for family of four", "how to remove wallpaper without damaging the wall", "what is a proxy server used for", "how to make a classic martini with gin", "best ergonomic office chairs for home", "how to clean a mechanical keyboard properly", "what are the symptoms of seasonal allergies", "how to improve public speaking skills", "best books to read in 2026", "how to start a podcast with no money", "what is the metaverse and is it still a thing", "how to make cold brew coffee at home", "best running shoes for marathon training", "how to change the oil in a toyota camry", "what is a smart contract in blockchain", "how to make fluffy pancakes from scratch", "best indoor plants that don't need much light", "how to fix a slow internet connection", "what is the difference between a 401k and an ira", "how to clean a cast iron skillet after use", "best non stick pans for induction cooktops", "how to set up two factor authentication on google", "what is the richest country in the world by gdp", "how to make espresso without a machine", "best running apps for tracking distance", "how to get rid of fruit flies in the house", "what is a heat pump and how does it work", "how to do a smoky eye for beginners", "best watches for men under 200 dollars", "how to change air filter in a car", "what is the greenhouse effect and its causes", "how to make chicken stock in a slow cooker", "best solar panels for residential homes", "how to backup iphone to icloud manually", "what is a 401k plan and its benefits", "how to treat a wasp sting at home", "best compression socks for long flights", "how to make an origami crane step by step", "what is the most spoken language in the world", "how to clean windows with vinegar and water", "best gaming chairs for long hours", "how to fix a slow windows 11 laptop", "what is dividend investing for passive income", "how to poach an egg in boiling water", "best dog food for puppies with allergies", "how to get better at playing chess", "what is the distance from earth to mars right now", "how to use a moka pot for the first time", "best luggage for traveling to europe", "how to remove rust from old tools", "what is a recession and what causes it", "how to make vegetable soup from scratch", "best electric shavers for a close shave", "how to cancel hulu subscription online", "what is the capital city of brazil", "how to stop a door from squeaking with wd40", "best telescopes for backyard stargazing", "how to calculate percentages without a calculator", "what is the holy grail of theoretical physics", "how to make nitro cold brew at home", "best plant based protein powder 2026", "how to transfer photos from iphone to pc", "what is universal basic income and its pros and cons", "how to clean a keurig coffee maker", "best essential oils for better sleep", "how to build a gaming pc step by step 2026", "what is the most popular sport in the usa", "how to write a resume with no work experience", "best wireless earbuds for working out", "how to survive a long international flight", "what is the coldest place on earth currently", "how to cook corn on the cob on the stove", "best mountain bikes for beginners under 500", "how to get grease stains out of a shirt", "what is the function of the human liver", "how to make sourdough starter from scratch", "best face wash for oily and acne prone skin", "how to disable windows 11 automatic updates", "what is a bull market in the stock exchange", "how to train for a 5k in 4 weeks", "best robot vacuum for pet hair and carpets", "how to make garlic bread in the oven", "what is the most expensive car in the world 2026", "how to unclog a toilet without a plunger at home",
+  let pos;
 document.addEventListener("DOMContentLoaded", function()
                           {
                             document.body.style.backgroundColor=`#${Math.floor(Math.random()*16777215).toString(16).padStart(6, '0')}`;
@@ -740,6 +1209,3 @@ document.getElementById('copy').addEventListener('click', function()
                                                      document.getElementById('question').value=questions[pos];
                                                      document.getElementById('copy').textContent="Copy " + (pos+1);
                                                  });
-
-
-
