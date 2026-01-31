@@ -4,7 +4,6 @@ body
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	height: 83vh;
 	margin: 1px;
 }
 textarea
@@ -39,4 +38,5 @@ button:hover
 	background-color: lightgreen;
 	color: #171414;
 }
+
 
