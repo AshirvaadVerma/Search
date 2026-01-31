@@ -9,17 +9,21 @@ body {
     margin: 0;
 }
 
-/* Container to centre everything vertically */
+/* Container */
 .container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 20px; /* Space between textarea and controls */
+    gap: 20px;
+    padding: 10px; /* Important for phones */
+    width: 100%;
+    box-sizing: border-box;
 }
 
 /* Textarea styling */
 textarea {
-    width: 700px; /* Wider textarea */
+    width: 700px; /* Default for laptops */
+    max-width: 100%;
     height: 50px;
     font-size: 20px;
     padding: 10px;
@@ -28,8 +32,9 @@ textarea {
     color: white;
     border: none;
     border-radius: 5px;
-    transition: 0.5s;
+    transition: 0.3s;
     resize: none;
+    box-sizing: border-box;
 }
 
 textarea:hover {
@@ -40,25 +45,28 @@ textarea:hover {
 /* Controls container */
 .controls {
     display: flex;
-    gap: 10px; /* Space between input and button */
+    gap: 10px;
 }
 
-/* Day input field styling */
+/* Input field */
 input[type="number"] {
     width: 80px;
     height: 40px;
     font-size: 18px;
-    text-align: center;
+    text-align: centre;
     border: none;
     border-radius: 5px;
     background-color: #171414;
     color: white;
-    transition: 0.5s;
+    transition: 0.3s;
 }
+
 input[type="number"]:hover {
     background-color: lightyellow;
     color: #171414;
 }
+
+/* Button */
 button {
     height: 40px;
     width: 100px;
@@ -67,10 +75,30 @@ button {
     border-radius: 5px;
     background-color: #171414;
     color: white;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 button:hover {
     background-color: lightgreen;
     color: #171414;
+}
+
+/* 🔥 Mobile optimisation */
+@media (max-width: 768px) {
+    textarea {
+        width: calc(100vw - 10px); /* Full width minus 10px */
+        font-size: 18px;
+    }
+
+    .controls {
+        width: 100%;
+        flex-direction: column;
+        align-items: centre;
+    }
+
+    input[type="number"],
+    button {
+        width: 100%;
+        max-width: 300px;
+    }
 }
