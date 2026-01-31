@@ -1,4 +1,4 @@
-let questions=["firebase",
+const questions=["firebase",
                "tin element symbol",
                "lava agni 4 8+128",
                "lava agni 3 8+128",
@@ -1183,32 +1183,74 @@ let questions=["firebase",
   "how to reset a forgotten windows 11 password", "best hiking boots for narrow feet", "how to grow organic basil in a pot", "symptoms of magnesium deficiency", "how to cook acorn squash in a microwave", "best productivity methods for students", "how to get oil stains out of a driveway", "what is the deepest part of the ocean", "how to use a multimeter to check continuity", "best budget 8k monitors for designers", "how to propagate a spider plant", "what is a liquid democracy", "how to make homemade udon noodles", "best cat food for indoor cats", "how to delete browsing history on safari", "what is the freezing point of salt water", "how to fix a squeaky wooden floor", "best moisturizer for sensitive skin with spf", "how to meditate for better focus", "what is the largest monolith in the world", "how to bake a whole pumpkin", "best earplugs for construction workers", "how to register a trademark for a brand", "what is a tri-band router", "how to clean a wool coat at home", "best smart locks for apartment renters", "how to make a honey mustard dressing", "what is serverless computing", "how to improve typing accuracy", "best supplements for brain health", "how to wash a weighted vest", "what is a fixed-rate mortgage", "how to make belgian waffles", "best tall plants for indoor privacy", "how to fix joy-con drift permanently", "what is the difference between a bull and bear market", "how to clean a stainless steel pan", "best cast iron skillets 2026", "how to set up a passkey on windows", "what is the most expensive neighborhood in the world", "how to make a pour over coffee without a filter", "best fitness trackers for weightlifting", "how to get rid of gnats in houseplants", "what is a geothermal heat pump", "how to do a winged eyeliner for hooded eyes", "best luxury watches under 1000", "how to check tire tread depth with a penny", "what is the nitrogen cycle", "how to make vegetable stock from scraps", "best solar generators for camping", "how to transfer contacts from iphone to android", "what is a 529 plan", "how to treat a bee sting naturally", "best lumbar support pillows for cars", "how to make an origami crane", "what is the second most spoken language", "how to clean glass shower doors with vinegar", "best office chairs for lower back pain", "how to speed up a slow android phone", "what is growth investing", "how to poach an egg without a poacher", "best grain-free dog food brands", "how to win at tic-tac-toe every time", "what is the distance from earth to mars", "how to use a french press for tea", "best hard shell luggage for travel", "how to remove rust from tools", "what is a technical recession", "how to make lentil soup", "best electric trimmers for beards", "how to cancel apple tv plus subscription", "what is the capital of sweden", "how to stop a gate from sagging", "best telescopes for viewing planets", "how to calculate margin of error", "what is the string theory", "how to make instant iced coffee", "best soy protein powder", "how to move photos from google photos to icloud", "what is a circular economy", "how to clean a drip coffee maker", "best eucalyptus essential oil", "how to build a silent pc", "what is the world's most popular sport by fans", "how to write a formal resignation letter", "best earbuds for sleeping on your side", "how to prevent altitude sickness", "what is the coldest city in the world", "how to cook corn on the cob on the grill", "best road bikes under 2000", "how to get ink stains out of clothes", "what is the function of the gallbladder", "how to revive a dead sourdough starter", "best benzoyl peroxide cleansers", "how to disable bixby on samsung", "what is a stop-loss order", "how to run a marathon for beginners", "best handheld vacuums for stairs", "how to make cheesy breadsticks", "what is the most expensive item on amazon", "how to unclog a bathtub drain with hair", "best books on game theory", "how to create a budget for a wedding", "what is the speed of light in water", "how to roast parsnips", "best tropical vacation spots 2026", "how to fix a grainy photo", "what is the smallest state in the us", "how to make a vegan protein shake", "best heated gloves for skiing", "how to remove scuff marks from walls", "what is industry 4.0", "how to do a weighted plank", "best soundbars for small rooms", "how to wash a cashmere sweater", "what is the rarest eye color in the world", "how to make overnight oats", "best mechanical pencils for writing", "how to stop a tickle in your throat", "what is a good credit score for a car loan", "how to pickle jalapenos", "best loppers for tree branches", "how to use a foam roller for hamstrings", "what is the longest bone in the body", "how to make a campfire in the rain", "best santoku knives for beginners", "how to remove permanent marker from wood", "what is the population of china 2026", "how to bake salmon with asparagus", "best power banks for laptops", "how to fix a leaky faucet handle", "what is a mac address", "how to make a macchiato at home", "best vertical wireless chargers", "how to get rid of clover in lawn", "what is the moon's surface temperature", "how to wash a silk pillowcase", "best liquid fuel camping stoves", "how to improve charisma", "what is the most reactive element", "how to cook bacon in the air fryer", "best home rowing machines", "how to delete a reddit account", "what is the event horizon of a black hole", "how to make pumpkin bread", "best humidifiers for large rooms", "how to clean a cast iron griddle", "what is hyperinflation", "how to do a front squat", "best e-readers for textbooks", "how to stretch tight leather shoes", "what is the difference between a comet and an asteroid", "how to make homemade pizza sauce with fresh tomatoes", "best wood pellet grills 2026", "how to change the battery in a key fob", "what is the fastest land animal", "how to make green tea", "best insulated water bottles", "how to clean a projector lens", "what is the atmospheric pressure at sea level", "how to fry an egg sunny side up", "best laptops for coding 2026", "how to stop a tension headache", "what is the most common gas in the sun", "how to make instant dalgona coffee", "best latex pillows", "how to remove super glue from metal", "what is the largest gulf in the world", "how to make maple candy", "best cycling helmets for commuting", "how to fix a leaky outdoor faucet", "what is the rarest blood type in the world", "how to make a patty melt", "best lengthening mascara", "how to update bios without cpu", "what is the third law of thermodynamics", "how to grow blueberries in pots", "best sneakers for walking all day", "how to clean a rubber yoga mat", "what is the capital of switzerland", "how to make garlic mashed potatoes", "best cinewhoop drones 2026", "how to remove a broken bolt", "what is the largest living bird", "how to make a green smoothie bowl", "best folding e-bikes", "how to clean a laptop screen without streaks", "what is a subnet mask", "how to make peach salsa", "best android tablets for drawing", "how to sharpen a pocket knife", "what is the most played video game 2026", "how to make curly fries", "best mineral sunscreen for face", "how to clean suede sneakers", "what is the average internal temperature of a human", "how to make fluffy scrambled eggs", "best robot vacuums for hardwood floors", "how to fix a scratched eyeglass lens", "what is the deepest river in the world",
   "what to watch on netflix tonight", "where is my tax refund 2026", "how to get cursor ai pro for free", "symptoms of lightheadedness and fatigue", "how to lower a1c naturally", "best pickleball paddle for seniors", "how to screenshot on macbook air", "what is my ip address ipv6", "how many ounces in a cup of water", "what time is sunset in london", "how to lose weight fast without exercise", "why is the sky blue for kids", "when is the next full moon 2026", "can dogs eat bananas or strawberries", "how to delete instagram account permanently 2026", "is reddit down right now", "how to deal with construction site noise", "where to watch india vs england cricket", "what is a software framework in coding", "how to add volume to thin hair naturally", "when is easter 2026", "who is the richest person in the world 2026", "how to create an invoice for freelance work", "why does my stomach hurt after eating", "how old is taylor swift", "does green tea have more caffeine than coffee", "are banks open today on bank holiday", "how to learn javascript for beginners 2026", "what is today's national holiday", "where am i right now on google maps", "how many weeks in a year exactly", "what song is this playing in the background", "how to fix a grainy video on iphone", "best exosome serum for anti aging", "how to use beef tallow moisturizer", "where to buy toobit crypto", "best hyrox training plan for beginners", "how to setup agentic ai for business", "what is cloud 3.0 technology", "how to reduce digital eye strain", "best slowcation destinations in europe", "how to start a digital detox", "meaning of brain wealth vs brain health", "how to make a dubai chocolate bar at home", "best winter performance jackets 2026", "how to fix cursor ai terminal errors", "what is the current price of bitcoin in usd", "how to automate sourdough starter feeding", "best high protein snacks for weight loss", "how to fix type mismatch error in python", "what is a null pointer exception in java", "how to use a debugger in vs code", "best ways to avoid syntax errors in c++", "how to fix division by zero in excel", "what is the difference between logic and semantic errors", "how to handle memory leaks in node js", "best practice for exception handling in rust", "how to fix a 404 not found error", "what is an api gateway and how it works", "how to use r-a-g with generative ai", "best low code platforms for small business 2026", "how to prevent ai bias in algorithms", "what is sustainable green computing", "how to fix bluetooth lag on windows 11", "best noise cancelling headphones for office", "how to clean a leather sofa with vinegar", "what are the symptoms of anxiety in adults", "how to improve sleep quality naturally", "best way to manage stress at work", "how to boost immune system during winter", "what is the cause of kidney stones", "how to lower cholesterol without medication", "best way to learn a new language fast", "how to start a vegetable garden for beginners", "what is the most popular video game right now", "how to fix a leaky faucet in the bathroom", "best affordable smartphones 2026", "how to write a resume for a career change", "what is the current rate of inflation", "how to invest in index funds for beginners", "best ways to save money on groceries", "how to stop procrastination and get things done", "what is the meaning of life according to philosophy", "how to bake a potato in an air fryer", "best yoga poses for lower back pain", "how to change a flat tire on a car", "what is the speed of light in a vacuum", "how to make a paper airplane that flies far", "best electric cars under 30000 dollars", "how to get rid of ants in the kitchen", "what is the tallest building in the world", "how to do a french braid on yourself", "best travel insurance for international trips", "how to sharpen a kitchen knife with a stone", "what is a firewall and why do i need one", "how to make lasagna with cottage cheese", "best credit cards for travel points 2026", "how to stop a cold when you feel it coming on", "what is the largest planet in our solar system", "how to draw a realistic rose step by step", "best mattress for side sleepers with back pain", "how to get a job at a big tech company", "what is the speed of sound in air", "how to make basil pesto from scratch", "best outdoor fire pits for wood burning", "how to fix a cracked screen on a smartphone", "what is social engineering in cybersecurity", "how to make hard boiled eggs that are easy to peel", "best bluetooth speakers under 100 dollars", "how to get rid of dandruff permanently", "what is an api and how do developers use it", "how to cook salmon in the oven at 400", "best fonts for a professional resume 2026", "how to cancel netflix subscription on phone", "what is sustainable fashion and why does it matter", "how to make homemade lemonade with honey", "best sunscreen for kids with sensitive skin", "how to write a poem for a wedding", "what is the p versus np problem in math", "how to knit a scarf for beginners", "best camping gear for family of four", "how to remove wallpaper without damaging the wall", "what is a proxy server used for", "how to make a classic martini with gin", "best ergonomic office chairs for home", "how to clean a mechanical keyboard properly", "what are the symptoms of seasonal allergies", "how to improve public speaking skills", "best books to read in 2026", "how to start a podcast with no money", "what is the metaverse and is it still a thing", "how to make cold brew coffee at home", "best running shoes for marathon training", "how to change the oil in a toyota camry", "what is a smart contract in blockchain", "how to make fluffy pancakes from scratch", "best indoor plants that don't need much light", "how to fix a slow internet connection", "what is the difference between a 401k and an ira", "how to clean a cast iron skillet after use", "best non stick pans for induction cooktops", "how to set up two factor authentication on google", "what is the richest country in the world by gdp", "how to make espresso without a machine", "best running apps for tracking distance", "how to get rid of fruit flies in the house", "what is a heat pump and how does it work", "how to do a smoky eye for beginners", "best watches for men under 200 dollars", "how to change air filter in a car", "what is the greenhouse effect and its causes", "how to make chicken stock in a slow cooker", "best solar panels for residential homes", "how to backup iphone to icloud manually", "what is a 401k plan and its benefits", "how to treat a wasp sting at home", "best compression socks for long flights", "how to make an origami crane step by step", "what is the most spoken language in the world", "how to clean windows with vinegar and water", "best gaming chairs for long hours", "how to fix a slow windows 11 laptop", "what is dividend investing for passive income", "how to poach an egg in boiling water", "best dog food for puppies with allergies", "how to get better at playing chess", "what is the distance from earth to mars right now", "how to use a moka pot for the first time", "best luggage for traveling to europe", "how to remove rust from old tools", "what is a recession and what causes it", "how to make vegetable soup from scratch", "best electric shavers for a close shave", "how to cancel hulu subscription online", "what is the capital city of brazil", "how to stop a door from squeaking with wd40", "best telescopes for backyard stargazing", "how to calculate percentages without a calculator", "what is the holy grail of theoretical physics", "how to make nitro cold brew at home", "best plant based protein powder 2026", "how to transfer photos from iphone to pc", "what is universal basic income and its pros and cons", "how to clean a keurig coffee maker", "best essential oils for better sleep", "how to build a gaming pc step by step 2026", "what is the most popular sport in the usa", "how to write a resume with no work experience", "best wireless earbuds for working out", "how to survive a long international flight", "what is the coldest place on earth currently", "how to cook corn on the cob on the stove", "best mountain bikes for beginners under 500", "how to get grease stains out of a shirt", "what is the function of the human liver", "how to make sourdough starter from scratch", "best face wash for oily and acne prone skin", "how to disable windows 11 automatic updates", "what is a bull market in the stock exchange", "how to train for a 5k in 4 weeks", "best robot vacuum for pet hair and carpets", "how to make garlic bread in the oven", "what is the most expensive car in the world 2026", "how to unclog a toilet without a plunger at home"];
 
-let pos, day;
-document.addEventListener("DOMContentLoaded", function() {
-  document.body.style.backgroundColor = `#${Math.floor(Math.random()*16777215).toString(16).padStart(6, '0')}`;
-  pos = localStorage.getItem('pos') !== null ? parseInt(localStorage.getItem('pos'), 10) : 0;
-  day = localStorage.getItem('day') !== null ? parseInt(localStorage.getItem('day'), 10) : 0;
-  const dayInput = document.getElementById('day');
+
+const BLOCK_SIZE = 20;
+
+let day = 0;
+let pos = 0;
+
+const questionEl = document.getElementById("question");
+const dayInput = document.getElementById("day");
+const copyBtn = document.getElementById("copy");
+
+/* ---------- Helpers ---------- */
+function getQuestionIndex() {
+  const startIndex = day * BLOCK_SIZE;
+  return startIndex + pos;
+}
+
+function updateQuestion() {
+  const index = getQuestionIndex();
+
+  if (index >= questions.length) {
+    questionEl.value = "No questions available for this day.";
+    copyBtn.disabled = true;
+    return;
+  }
+
+  copyBtn.disabled = false;
+  questionEl.value = questions[index];
+  copyBtn.textContent = `Copy ${pos + 1}`;
+}
+
+function saveState() {
+  localStorage.setItem("day", day);
+  localStorage.setItem("pos", pos);
+}
+
+/* ---------- Load state ---------- */
+document.addEventListener("DOMContentLoaded", () => {
+  document.body.style.backgroundColor =
+    `#${Math.floor(Math.random() * 16777215).toString(16).padStart(6, "0")}`;
+
+  day = Number(localStorage.getItem("day")) || 0;
+  pos = Number(localStorage.getItem("pos")) || 0;
+
   dayInput.value = day;
   updateQuestion();
-  dayInput.addEventListener('input', function() {
-    const newDay = parseInt(dayInput.value, 10) || 0;
-    day = newDay;
-    pos = 0;
-    localStorage.setItem('day', day);
-    localStorage.setItem('pos', pos);
-    updateQuestion();
-  });
 });
-function updateQuestion() {
-  const index = (day * 20 + pos) % questions.length;
-  document.getElementById('question').value = questions[index];
-  document.getElementById('copy').textContent = `Copy ${pos + 1}`;
-}
-document.getElementById('copy').addEventListener('click', function() {
-  const index = (day * 20 + pos) % questions.length;
-  navigator.clipboard.writeText(questions[index]);
-  pos = (pos + 1) % 20;
-  localStorage.setItem('pos', pos);
+
+/* ---------- Day change ---------- */
+dayInput.addEventListener("input", () => {
+  day = Math.max(0, Number(dayInput.value) || 0);
+  pos = 0; // reset to first question of the block
+  saveState();
   updateQuestion();
+});
+
+/* ---------- Copy button ---------- */
+copyBtn.addEventListener("click", async () => {
+  const index = getQuestionIndex();
+
+  if (index < questions.length) {
+    await navigator.clipboard.writeText(questions[index]);
+
+    pos++;
+    if (pos >= BLOCK_SIZE) {
+      pos = 0; // stay within the same block
+    }
+
+    saveState();
+    updateQuestion();
+  }
 });
