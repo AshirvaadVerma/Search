@@ -1186,12 +1186,20 @@ let questions=["firebase",
 let pos, day;
 document.addEventListener("DOMContentLoaded", function() {
   document.body.style.backgroundColor = `#${Math.floor(Math.random()*16777215).toString(16).padStart(6, '0')}`;
-});
-window.onload = function() {
   pos = localStorage.getItem('pos') !== null ? parseInt(localStorage.getItem('pos'), 10) : 0;
   day = localStorage.getItem('day') !== null ? parseInt(localStorage.getItem('day'), 10) : 0;
+  const dayInput = document.getElementById('day');
+  dayInput.value = day;
   updateQuestion();
-};
+  dayInput.addEventListener('input', function() {
+    const newDay = parseInt(dayInput.value, 10) || 0;
+    day = newDay;
+    pos = 0;
+    localStorage.setItem('day', day);
+    localStorage.setItem('pos', pos);
+    updateQuestion();
+  });
+});
 function updateQuestion() {
   const index = (day * 20 + pos) % questions.length;
   document.getElementById('question').value = questions[index];
