@@ -126,13 +126,341 @@ National Anthem. How many stanzas of the song were adopted?
   What is the Total Duration of Foot ball Match?
   Who wrote the book, “Discovery of India”?
   In Which Year, was the Pulitzer Prize Introduced?",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
-               "",
+               "Where is India’s first Floating Post Office Established?
+  Who is the present Chief Minister of Telangana?
+  Who was the first Indian woman to climb Mount Everest?
+  Which is the Longest Railway Platform in the world?
+  Which City is known as the “Windy City”?
+  What is the expansion of ICRC?
+  Who wrote the book, “Dreams from My Father: A Story of Race and Inheritance”?
+  Who is the present Central Minister of External Affairs?
+  When is the World Literacy Day Celebrated?
+  ‘A Forgotten Empire’ written by the Historian Sewell refers to Which Empire.
+  Which is the Highest Peak in India?
+  What is the expansion of BARC?
+  When is the National Sports Day Celebrated?
+  Which is the National Sport of China?
+  What is the name of playing area of Baseball?
+  Which City is known as the “Garden City”?",
+               "Where is the Vijaya Vittala Temple, Having its 56 carved pillars emitting Musical Notes Located?
+  Who wrote the book, “My Journey”?
+  What is the expansion of IDA?
+  Who is known as “the Lion of Punjab”?
+  Which was the first Country to host the Modern Olympic Games?
+  Who was the first Mauryan Ruler to conquer Deccan?
+  Which is the Capital of Mizoram?
+  What is the Chemical name of Vitamin D?
+  Where is the National Institute of Agricultural Marketing Located?
+  Who won the Women’s singles title in the World Badminton Championship 2017?
+  Which is the largest Delta in the world?
+  Who was the founder of Gupta Dynasty?
+  Who is the only President of India elected as an Independent Candidate?
+  Which City is known as the “Steel City of India”?
+  Which is the National Heritage Animal of India?
+  What is the motto of Olympic Games?",
+               "Who wrote the Poem, “The Bird of Time”?
+  When is the International Nelson Mandela Day Observed?
+  Which country will host the 2018 International Theatre Olympics?
+  Which is the Highest Lake above the sea level in the world?
+  With Which Sport, is “Popping Crease” Associated?
+  Who wrote the book, “Man- the Maker of His own Destiny”?
+  Which International Tennis Event is held on the Grass Court?
+  Which Company developed the India’s first Bio-Methane Bus?
+  What is the name of Chennai to Vishakhapatnam National Highway?
+  Which Planet of the Solar System spins on its axis at the Fastest Rate?
+  Who is known as “the Grand Old man of India”?
+  At Which temperature, Both the Fahrenheit and the Centigrade Scales have the same values?
+  Which Union Territory of India attained Statehood in February 1987?
+  Name the Substance found in blood, which helps in Clotting.
+  Which is considered as a hot spot of Biodiversity in India?",
+  Which country has the Briefest Constitution in the World?
+  Name the pair of countries, which the Karakoram Highway connects.
+  Where is the headquarters of UNESCO located?
+  Which is the Biggest Lake in India?
+  Which Vitamin plays a vital role in Coagulation Property of Blood?
+  Mahatma Gandhi gave the call ‘Do or Die’ During Which Movement?
+  To Which Field is the Award Saraswathi Samman given annually for Outstanding Contribution?
+  Which is the Largest Gulf in the world?
+  What is the name of study of Growth and Development of Embryo?
+  Port Blair- the Capital of Andaman & Nicobar Islands, is located in which Island?
+  How much Earth’s Surface is covered by the Forests?
+  In Which Year, Delhi became the capital of India.
+  On planet Earth, Where is no Centripetal Force?
+  Which state has the Largest Coastline in India?
+  Which is the Deepest Landlocked Protected Port?
+  Which is the first National Park established in India?
+  In which Indian State, The World famous “Khajuraho” Sculptures are found?
+  Who was the first Chairman of Indian Atomic Energy Commission?
+  Who had the Policy of “One People, One State, and One Leader”?
+  What is the Chemical name of Chloroform?
+  Where is the headquarters of Coffee Board of India Located?
+  When is the International Day of Democracy Observed?
+  Which is the first Country to give Voting Right to Women?
+  What is the name of Currency of Belgium?
+  Who was the first Indian woman to receive Jnanapith Award?
+  Which is the Longest River of Southern India?
+  Which is the Capital of Himachal Pradesh?
+  Where is the Integral Coach Factory in India Located?
+  When is the International Biodiversity Day Observed?
+  Which is the leading Bus Terminus in Asia?
+  What is the expansion of BHEL?
+  Who wrote the book, “Glimpses of World History”?
+  Who won the Women’s singles title in 2017 American Open Tennis Championship?
+  Which is the Largest Cave in India?
+  Where is the Central Marine Research Institute Located?
+  What is the name of Currency of Zimbabwe?
+  Which is the Capital of USA?
+  What is the expansion of NASA?
+  Where is the Army Cadet College in India Located?
+  When is the National Physics Day Celebrated?
+  Which is the first Country to send Human to Moon?
+  Who wrote the book, “Man of Destiny”?
+  Who is the Brand Ambassador of Jharkhand tourism?
+  Who is the present Central Defence Minister?
+  When is the World Maths Day Celebrated?
+  What is the expansion of IGCAR?
+  Who is the present Central Railway Minister?
+  Who won the women’s singles title in Korea Open Super Series Badminton Championship 2017?
+  Which is the Capital of Tripura?
+  Who wrote the book, “Origin of Species”?
+  Which is the Highest Award given for Science in India?
+  Who started Public Works Department in India?
+  Which is the State Bird of Tamil Nadu?
+  Which is the Capital of the Union Territory Daman & Diu?
+  Where is the Sundarban Tiger Reserve Situated?
+  Which is the Longest National Highway in India?
+  What is the expansion of ICMR?
+  Where is the Central Food Technology Research Institute Located?
+  Who completed the construction of Qutub Minar?
+  Which state Government of India institutes Mahatma Gandhi Award?
+  Where is the Green park Stadium Located?
+  What is the name of playing area of Lawn Tennis?
+  When is the World Postal Day Observed?
+               "Where is the National Institute of Ayurveda located?
+Which is the highest airport in India?
+Which city is the biggest centre for manufacture of automobiles in the world?
+Who wrote the book “Business @ The Speed of Thoughts”?
+Who is known as “the Iron Lady”?
+Where is the Centre for Environmental Education located?
+Where was the first Technology Park in India established?
+What is the name of the Parliament in the USA?
+Which city is known as the “City of Cycles”?
+Which city is known as the “Empire City”?
+Who is the Brand Ambassador of Incredible India?
+Who was the first Indian-born recipient to receive the Nobel Prize for Peace?
+Who is the present Central Minister of Drinking Water and Sanitation?
+Where is the Himalayan Forest Research Institute located?
+What is Entomology?
+Who wrote the book “As You Like It”?
+Who wrote the book “Gathering Storm”?
+Which is the longest highway in the world?
+Who was the first Governor General of Pakistan?
+Where is the Centre for Liquid Crystal Research located?
+Which country is known as “the Country of Copper”?
+Who is the Brand Ambassador of Skill India Mission?
+What is the name of the Parliament of Indonesia?
+Which city is known as the “City of Gold”?
+Which is the largest producer of rubber in the world?
+Where is the Institute of Forest Genetics & Tree Breeding located?
+Who is the first Viceroy of India?
+What was the earlier name of New York City?
+Who is the Brand Ambassador of the Central Reserve Police Force?
+Who is the present Central Minister of Human Resource Development?
+Who is the newly appointed Governor of Andaman & Nicobar Islands?
+Which Indian city is known as “the Diamond City”?",
+               "Who is the Brand Ambassador of Kerala’s Ayurveda?
+Which country is the largest producer of manganese in the world?
+Who is the first Governor General of India?
+Where is the Indian Institute of Foreign Trade located?
+Who wrote the book “War and Peace”?
+Where is S. N. Bose National Centre for Basic Sciences located?
+Who wrote the book “Oliver Twist”?
+What is the lifespan of RBC?
+What is the old name of Taiwan?
+What is the expansion of UNIDO?
+Who was the first President of the USA?
+Who said, “Man is a tool-making animal”?
+Who was the last British Viceroy of India?
+What is the chemical name of ruby?
+Where is the Central Institute of Indian Languages located?
+Who wrote the book “Wake Up India”?
+What is the expansion of STARS?
+Who is the world’s first woman cosmonaut?
+Which city is known as the “City of Cakes”?
+Which city is known as the “Motor City”?
+Where is the Centre for Wind Energy Technology located?
+Who wrote the book “The Godfather”?
+Who is the Brand Ambassador of Yoga and Ayurveda in Haryana?
+Who is the present Central Minister of Science and Technology?
+What is the chemical name of Vitamin C?
+When was the first crossword puzzle published?
+Name the country whose national anthem has only music but no words.
+Who invented the crossword puzzle?
+What is ailurophobia?
+Where is the Patagonian Desert located?
+Which is the first animated colour cartoon of full feature length?
+Which is the oldest residential university in Britain?
+Which city is selected under UNESCO’s Creative Cities Network for contribution in music?",
+               "What is the name of the large clock on the tower of the House of Parliament in London?
+Who was the founder of the kindergarten education system?
+Which is the first university established in the world?
+What is the expansion of CFO?
+What was the rank of India in the Valuable Nation Brand List 2017?
+When is World Standards Day observed?
+When was the first election of the Lok Sabha held?
+Which was the first country to issue stamps?
+Who introduced the practice of sterilisation of surgical instruments?
+When is the International Day for the Preservation of the Ozone Layer observed?
+Where is the famous painting “Mona Lisa” displayed?
+Name the river which carries the maximum quantity of water into the sea.
+Which country is known as “the Battlefield of Europe”?
+What is acrophobia?
+Which country stands first in the generation of geothermal energy?
+Where is the National Centre of Organic Farming located?
+Who wrote the book “Memories of the II World War”?
+What was the rank of India in the 2017 Global Business Optimism Ranking?
+When is the International Day for the Eradication of Poverty observed?
+The Department of Official Languages comes under which ministry?
+Where is the Great Victoria Desert located?
+Who coined the term “quiz”?
+How many countries participated in the first Olympic Games held at Athens?
+When is World Soil Day observed?
+Which is India’s first energy-efficient railway station?
+Where was the first demonstration of a motion picture held?
+Who is the new Chairman of the Petroleum and Natural Gas Regulatory Board (PNGRB)?
+How many keys are there in an ordinary piano?
+Who wrote the book “Seven Lamps of Architecture”?
+Who was the first Education Minister of independent India?",
+  "When was the Indian Air Force’s Golden Jubilee celebrated?",
+"Which is the largest museum in the world?",
+"What is the name of the residence of the Queen of England?",
+"What is the name of the mountain range between the Indus and Sutlej rivers?",
+"Where was the Global Entrepreneurship Summit 2017 held?",
+"When is Indian Air Force Day celebrated?",
+"Which is the largest airport in the world?",
+"What is the expansion of CIO?",
+"Where is Angel Falls located?",
+"Name the country where military service is compulsory for women.",
+"What is the last letter of the Greek alphabet?",
+"Which country is known as ‘the Land of the Setting Sun’?",
+"In which state of India does the sun rise first?",
+"Which country is known as ‘the Britain of the East’?",
+"Which is the lowest point on Earth?",
+"When is World Consumer Day observed?",
+"Which is the highest peak in the Western Ghats?",
+"Who is known as ‘Punjab Kesari’?",
+"Who is the present Governor of New Delhi?",
+"Who is the Brand Ambassador of the Uttar Pradesh Election Commission?",
+"Where is Victoria Falls located?",
+"Which is the national emblem of Spain?",
+"Which is the largest city in Africa?",
+"Who won the 2017 Nobel Prize for Economics?",
+"What is the normal value of blood sugar in our body?",
+"Which city is known as ‘the Venice of the North’?",
+"Which country is known as ‘the Emerald Island’?",
+"What is the name of the Parliament in Mexico?",
+"Who is the present Central Minister of Railways?",
+"Who wrote the book ‘My Truth’?",
+"What is the expansion of SIDBI?",
+"Where is the National Judicial Academy located?",
+"When is United Nations Day celebrated?",
+  "Where is the Indian Institute of Mass Communication located?",
+"Who is the present Central Minister of Agriculture and Farmers Welfare?",
+"Which country is known as ‘the Land of Windmills’?",
+"Who wrote the book ‘Voice of Conscience’?",
+"Who was the first Indian to score a triple century in Test cricket?",
+"What is the expansion of IRS?",
+"When is International Translation Day observed?",
+"Who is the present Central Minister of Statistics and Programme Implementation?",
+"Where is the Indian Council of Historical Research located?",
+"Who wrote the book ‘Isabella’?",
+"Which country is known as ‘the Land of Lilies’?",
+"Who constructed the Jagannath Temple at Puri?",
+"Which is the first country to sign a nuclear agreement with India?",
+"Which is the lightest metal?",
+"Which city is known as ‘the Magic City’?",
+"Which is the National Calendar of India?",
+"Who was the first man to receive the Nobel Prize for Physics?",
+"What is the name of the currency of Egypt?",
+"What is India’s rank in the Global Passport Power Rank 2017?",
+"Who is known as the ‘Human Computer’?",
+"Who wrote the book ‘The Conversations with Myself’?",
+"Which is the first country to win the Football World Cup?",
+"Who wrote the book ‘India Wins Freedom’?",
+"Which is the capital of Austria?",
+"Where is the Army School of Physical Training located?",
+"Which city in India is known as ‘the City of the Golden Temple’?",
+"When is World Day for Audio-Visual Heritage celebrated?",
+"Who won the Golden Ball for World Player of the Year 2017?",
+"When is International Anti-Corruption Day observed?",
+"What is the expansion of FERA?",
+"Where is the Indira Gandhi National Forest Academy located?",
+"Who was the world’s first woman President?",
+"Which is the highest dam in India?",
+  "Where is Victoria Memorial located?",
+"For which book did Salman Rushdie win the Booker Prize in 1981?",
+"Where is the Rajiv Gandhi National Institute of Youth Development located?",
+"Which country institutes the Pulitzer Prize?",
+"Who was the first man to hit a double century in a One Day International match?",
+"When is Indian Armed Forces Flag Day observed?",
+"Who won the title of Miss Universe 2017?",
+"What is the expansion of NSEFI?",
+"What was the theme of the Sahitya Academy Awards 2017?",
+"What is the expansion of CBDT?",
+"Who is known as the ‘King of Spin’?",
+"When is World Photography Day observed?",
+"Name the country that shares the longest border with India.",
+"Name the first research station established by India in Antarctica.",
+"Where is the site of Harappa located?",
+"Who discovered blood groups?",
+"Who is the current President of Russia?",
+"Who was the first recipient of the Param Vir Chakra?",
+"When is World Book Day celebrated?",
+"Which is the largest palace in the world?",
+"What is achluophobia?",
+"Which country institutes the Magsaysay Award?",
+"Which is the capital of Australia?",
+"What is tachophobia?",
+"Which is the national game of Spain?",
+"Where is the Nokrek Biosphere Reserve located?",
+"Who is the first Indian woman to win a medal at the Olympic Games?",
+"Who is the present Emperor of Japan?",
+"Which is the world’s rainiest spot?",
+"How many states in India are coastal?",
+"What is petrology?",
+"Which city is known as the ‘Big Apple’?",
+  "Who is the 45th Chief Justice of India?",
+"What is the expansion of AIIMS?",
+"Which year was declared as the International Year of Biodiversity?",
+"In which year was the Dadasaheb Phalke Award instituted?",
+"Where is the headquarters of the International Olympic Committee located?",
+"Where is the world’s largest roller coaster named ‘Ferrari World’ located?",
+"What is the expansion of BIS?",
+"Where is the National Institute of Nutrition located?",
+"Which is the largest penguin in the world?",
+"Which is the oldest tennis tournament in the world?",
+"Name the state which has the largest number of sugar mills in India.",
+"Which is the first country to issue plastic currency?",
+"Who appoints the district judges of a state?",
+"What is the expansion of SEBI?",
+"Which sanctuary is famous for the one-horned rhinoceros?",
+"What is dactylography?",
+"Who is the present CEO of Facebook?",
+"Who wrote the book ‘The Story of My Life’?",
+"What is cynophobia?",
+"Who is the present CEO of Flipkart?",
+"What is ornithophobia?",
+"Who wrote the book ‘My Country My Life’?",
+"Which is the smallest ocean?",
+"Who invented the thermometer?",
+"What is hydrobiology?",
+"Where was India’s first underground metro railway system established?",
+"Who is the present Central Minister of Commerce and Industry?",
+"What is arthrology?",
+"Who wrote the book ‘Making India Awesome’?",
+"Who won the 2017 Rajiv Gandhi Khel Ratna Award for hockey?",
+"Which is the longest mountain range in the world?",
+"What is the expansion of BMW?",
                "",
                "",
                "",
@@ -229,4 +557,5 @@ document.getElementById('copy').addEventListener('click', function()
                                                      document.getElementById('question').value=questions[pos];
                                                      document.getElementById('copy').textContent="Copy " + (pos+1);
                                                  });
+
 
