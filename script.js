@@ -1,4 +1,4 @@
-const questions=["firebase",
+const questions = ["firebase",
                "tin element symbol",
                "lava agni 4 8+128",
                "lava agni 3 8+128",
@@ -27,7 +27,6 @@ const questions=["firebase",
   "Who was the first Asian winner of the Nobel Prize",
                "When was Tooth brush invented?",
   "Which pair of Cities in India is known as the “Twin Cities“?",
-  
                "Where is Himalayan Mountaineering Institute located", 
   "Which City in India is known as the “City of Golden Gate”?",
   "What is Palaeontology?",
@@ -1192,6 +1191,7 @@ let pos = 0;
 const questionEl = document.getElementById("question");
 const dayInput = document.getElementById("day");
 const copyBtn = document.getElementById("copy");
+const resetBtn = document.getElementById("reset");
 
 /* ---------- Helpers ---------- */
 function getQuestionIndex() {
@@ -1202,15 +1202,19 @@ function getQuestionIndex() {
 function updateQuestion() {
   const index = getQuestionIndex();
 
-  if (index >= questions.length) {
-    questionEl.value = "No questions available for this day.";
-    copyBtn.disabled = true;
-    return;
-  }
+  // Use modulo to loop back to beginning when reaching the end
+  const actualIndex = index % questions.length;
 
-  copyBtn.disabled = false;
-  questionEl.value = questions[index];
-  copyBtn.textContent = `Copy ${pos + 1}`;
+  const question = questions[actualIndex];
+  
+  if (question) {
+    questionEl.value = question;
+    copyBtn.disabled = false;
+    copyBtn.textContent = `Copy ${pos + 1}`;
+  } else {
+    questionEl.value = "No questions available.";
+    copyBtn.disabled = true;
+  }
 }
 
 function saveState() {
@@ -1241,9 +1245,12 @@ dayInput.addEventListener("input", () => {
 /* ---------- Copy button ---------- */
 copyBtn.addEventListener("click", async () => {
   const index = getQuestionIndex();
+  const actualIndex = index % questions.length;
+  
+  const question = questions[actualIndex];
 
-  if (index < questions.length) {
-    await navigator.clipboard.writeText(questions[index]);
+  if (question) {
+    await navigator.clipboard.writeText(question);
 
     pos++;
     if (pos >= BLOCK_SIZE) {
@@ -1253,4 +1260,13 @@ copyBtn.addEventListener("click", async () => {
     saveState();
     updateQuestion();
   }
+});
+
+/* ---------- Reset button ---------- */
+resetBtn.addEventListener("click", () => {
+  day = 0;
+  pos = 0;
+  dayInput.value = "0";
+  saveState();
+  updateQuestion();
 });
